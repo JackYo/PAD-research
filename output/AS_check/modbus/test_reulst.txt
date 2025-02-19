@@ -1,0 +1,66 @@
+FP100: 100 packets
+FP constrain: length >= 6, frequency > 10
+test data abnormal rate: 0/157
+training data abnormal rate: 0/100
+ 
+FP100: 100 packets
+FP constrain: length >= 7, frequency > 10
+test data abnormal rate: 0/157
+training data abnormal rate: 8/100
+ 
+FP100: 100 packets
+FP constrain: length >= 7, frequency > 20
+test data abnormal rate: 0/157
+training data abnormal rate: 68/100
+ 
+FP100: 100 packets
+FP constrain: length >= 6, frequency > 20
+test data abnormal rate: 0/157
+training data abnormal rate: 0/100
+
+FP100: 100 packets
+FP constrain: length >= 7, frequency > 30
+test data abnormal rate: 0/157
+training data abnormal rate: 21/100
+
+========================== closed pattern
+
+FP100: 100 packets
+FP constrain: length >= 6, frequency > 30
+test data abnormal rate: 157/157
+training data abnormal rate: 100/100 (No pattern)
+
+FP100: 100 packets
+FP constrain: length >= 6, frequency > 5
+test data abnormal rate: 0/157
+training data abnormal rate: 50/100
+
+FP100: 100 packets
+FP constrain: length >= 5, frequency > 5
+test data abnormal rate: 0/157
+training data abnormal rate: 44/100
+
+FP100: 100 packets
+FP constrain: length >= 4, frequency > 5
+test data abnormal rate: 0/157
+training data abnormal rate: 44/100
+
+FP100: 100 packets
+FP constrain: length >= 3, frequency > 5
+test data abnormal rate: 0/157
+training data abnormal rate: 0/100
+
+FP100: 100 packets
+FP constrain: length >= 3, frequency > 10
+test data abnormal rate: 0/157
+training data abnormal rate: 0/100
+
+FP100: 100 packets
+FP constrain: length >= 3, frequency > 20
+test data abnormal rate: 0/157
+training data abnormal rate: 0/100
+
+FP100: 100 packets
+FP constrain: length >= 3, frequency > 30
+test data abnormal rate: 0/157
+training data abnormal rate: 0/100

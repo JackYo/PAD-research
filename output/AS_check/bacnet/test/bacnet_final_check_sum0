@@ -1,0 +1,325 @@
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff194b ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4b'] ,ts= 1427822985.007800000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff194b ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4b'] ,ts= 1427822985.007800000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[1]--[4, 0, 5, 22, 12, 12, 0, 0, 0, 1, 25, 117]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff194b ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4b'] ,ts= 1427822985.007800000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[2]--[4, 0, 5, 26, 12, 12, 0, 0, 0, 2, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff194b ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4b'] ,ts= 1427822985.007800000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[3]--[4, 0, 5, 40, 12, 12, 0, 0, 0, 3, 25, 36]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff194b ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4b'] ,ts= 1427822985.007800000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[4]--[4, 0, 5, 50, 12, 12, 0, 128, 0, 0, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff194b ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4b'] ,ts= 1427822985.007800000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[5]--[4, 0, 5, 59, 12, 12, 0, 128, 0, 1, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff194b ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4b'] ,ts= 1427822985.007800000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[6]--[4, 0, 5, 75, 12, 12, 0, 128, 0, 2, 25, 81]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff194b ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4b'] ,ts= 1427822985.007800000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[7]--[4, 0, 5, 83, 12, 12, 0, 128, 0, 3, 25, 111]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 810a001101040005010c0c023fffff194b ,ts= 1427822985.007800000
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1978 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '78'] ,ts= 1427822985.063200000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1978 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '78'] ,ts= 1427822985.063200000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[1]--[4, 0, 5, 22, 12, 12, 0, 0, 0, 1, 25, 117]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1978 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '78'] ,ts= 1427822985.063200000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[2]--[4, 0, 5, 26, 12, 12, 0, 0, 0, 2, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1978 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '78'] ,ts= 1427822985.063200000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[3]--[4, 0, 5, 40, 12, 12, 0, 0, 0, 3, 25, 36]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1978 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '78'] ,ts= 1427822985.063200000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[4]--[4, 0, 5, 50, 12, 12, 0, 128, 0, 0, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1978 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '78'] ,ts= 1427822985.063200000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[5]--[4, 0, 5, 59, 12, 12, 0, 128, 0, 1, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1978 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '78'] ,ts= 1427822985.063200000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[6]--[4, 0, 5, 75, 12, 12, 0, 128, 0, 2, 25, 81]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1978 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '78'] ,ts= 1427822985.063200000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[7]--[4, 0, 5, 83, 12, 12, 0, 128, 0, 3, 25, 111]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 810a001101040005010c0c023fffff1978 ,ts= 1427822985.063200000
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1979 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '79'] ,ts= 1427822985.115871000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1979 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '79'] ,ts= 1427822985.115871000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[1]--[4, 0, 5, 22, 12, 12, 0, 0, 0, 1, 25, 117]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1979 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '79'] ,ts= 1427822985.115871000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[2]--[4, 0, 5, 26, 12, 12, 0, 0, 0, 2, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1979 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '79'] ,ts= 1427822985.115871000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[3]--[4, 0, 5, 40, 12, 12, 0, 0, 0, 3, 25, 36]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1979 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '79'] ,ts= 1427822985.115871000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[4]--[4, 0, 5, 50, 12, 12, 0, 128, 0, 0, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1979 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '79'] ,ts= 1427822985.115871000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[5]--[4, 0, 5, 59, 12, 12, 0, 128, 0, 1, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1979 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '79'] ,ts= 1427822985.115871000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[6]--[4, 0, 5, 75, 12, 12, 0, 128, 0, 2, 25, 81]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1979 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '79'] ,ts= 1427822985.115871000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[7]--[4, 0, 5, 83, 12, 12, 0, 128, 0, 3, 25, 111]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 810a001101040005010c0c023fffff1979 ,ts= 1427822985.115871000
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff192c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '2c'] ,ts= 1427822985.171466000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff192c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '2c'] ,ts= 1427822985.171466000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[1]--[4, 0, 5, 22, 12, 12, 0, 0, 0, 1, 25, 117]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff192c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '2c'] ,ts= 1427822985.171466000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[2]--[4, 0, 5, 26, 12, 12, 0, 0, 0, 2, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff192c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '2c'] ,ts= 1427822985.171466000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[3]--[4, 0, 5, 40, 12, 12, 0, 0, 0, 3, 25, 36]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff192c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '2c'] ,ts= 1427822985.171466000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[4]--[4, 0, 5, 50, 12, 12, 0, 128, 0, 0, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff192c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '2c'] ,ts= 1427822985.171466000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[5]--[4, 0, 5, 59, 12, 12, 0, 128, 0, 1, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff192c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '2c'] ,ts= 1427822985.171466000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[6]--[4, 0, 5, 75, 12, 12, 0, 128, 0, 2, 25, 81]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff192c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '2c'] ,ts= 1427822985.171466000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[7]--[4, 0, 5, 83, 12, 12, 0, 128, 0, 3, 25, 111]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 810a001101040005010c0c023fffff192c ,ts= 1427822985.171466000
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff190c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '0c'] ,ts= 1427822985.226907000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff190c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '0c'] ,ts= 1427822985.226907000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[1]--[4, 0, 5, 22, 12, 12, 0, 0, 0, 1, 25, 117]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff190c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '0c'] ,ts= 1427822985.226907000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[2]--[4, 0, 5, 26, 12, 12, 0, 0, 0, 2, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff190c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '0c'] ,ts= 1427822985.226907000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[3]--[4, 0, 5, 40, 12, 12, 0, 0, 0, 3, 25, 36]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff190c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '0c'] ,ts= 1427822985.226907000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[4]--[4, 0, 5, 50, 12, 12, 0, 128, 0, 0, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff190c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '0c'] ,ts= 1427822985.226907000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[5]--[4, 0, 5, 59, 12, 12, 0, 128, 0, 1, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff190c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '0c'] ,ts= 1427822985.226907000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[6]--[4, 0, 5, 75, 12, 12, 0, 128, 0, 2, 25, 81]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff190c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '0c'] ,ts= 1427822985.226907000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[7]--[4, 0, 5, 83, 12, 12, 0, 128, 0, 3, 25, 111]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 810a001101040005010c0c023fffff190c ,ts= 1427822985.226907000
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff194d ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4d'] ,ts= 1427822985.282621000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff194d ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4d'] ,ts= 1427822985.282621000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[1]--[4, 0, 5, 22, 12, 12, 0, 0, 0, 1, 25, 117]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff194d ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4d'] ,ts= 1427822985.282621000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[2]--[4, 0, 5, 26, 12, 12, 0, 0, 0, 2, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff194d ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4d'] ,ts= 1427822985.282621000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[3]--[4, 0, 5, 40, 12, 12, 0, 0, 0, 3, 25, 36]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff194d ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4d'] ,ts= 1427822985.282621000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[4]--[4, 0, 5, 50, 12, 12, 0, 128, 0, 0, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff194d ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4d'] ,ts= 1427822985.282621000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[5]--[4, 0, 5, 59, 12, 12, 0, 128, 0, 1, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff194d ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4d'] ,ts= 1427822985.282621000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[6]--[4, 0, 5, 75, 12, 12, 0, 128, 0, 2, 25, 81]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff194d ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4d'] ,ts= 1427822985.282621000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[7]--[4, 0, 5, 83, 12, 12, 0, 128, 0, 3, 25, 111]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 810a001101040005010c0c023fffff194d ,ts= 1427822985.282621000
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1946 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '46'] ,ts= 1427822985.337853000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1946 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '46'] ,ts= 1427822985.337853000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[1]--[4, 0, 5, 22, 12, 12, 0, 0, 0, 1, 25, 117]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1946 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '46'] ,ts= 1427822985.337853000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[2]--[4, 0, 5, 26, 12, 12, 0, 0, 0, 2, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1946 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '46'] ,ts= 1427822985.337853000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[3]--[4, 0, 5, 40, 12, 12, 0, 0, 0, 3, 25, 36]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1946 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '46'] ,ts= 1427822985.337853000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[4]--[4, 0, 5, 50, 12, 12, 0, 128, 0, 0, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1946 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '46'] ,ts= 1427822985.337853000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[5]--[4, 0, 5, 59, 12, 12, 0, 128, 0, 1, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1946 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '46'] ,ts= 1427822985.337853000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[6]--[4, 0, 5, 75, 12, 12, 0, 128, 0, 2, 25, 81]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff1946 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '46'] ,ts= 1427822985.337853000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[7]--[4, 0, 5, 83, 12, 12, 0, 128, 0, 3, 25, 111]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 810a001101040005010c0c023fffff1946 ,ts= 1427822985.337853000
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff191c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '1c'] ,ts= 1427822985.393389000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff191c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '1c'] ,ts= 1427822985.393389000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[1]--[4, 0, 5, 22, 12, 12, 0, 0, 0, 1, 25, 117]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff191c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '1c'] ,ts= 1427822985.393389000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[2]--[4, 0, 5, 26, 12, 12, 0, 0, 0, 2, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff191c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '1c'] ,ts= 1427822985.393389000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[3]--[4, 0, 5, 40, 12, 12, 0, 0, 0, 3, 25, 36]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff191c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '1c'] ,ts= 1427822985.393389000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[4]--[4, 0, 5, 50, 12, 12, 0, 128, 0, 0, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff191c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '1c'] ,ts= 1427822985.393389000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[5]--[4, 0, 5, 59, 12, 12, 0, 128, 0, 1, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff191c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '1c'] ,ts= 1427822985.393389000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[6]--[4, 0, 5, 75, 12, 12, 0, 128, 0, 2, 25, 81]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff191c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '1c'] ,ts= 1427822985.393389000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[7]--[4, 0, 5, 83, 12, 12, 0, 128, 0, 3, 25, 111]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 810a001101040005010c0c023fffff191c ,ts= 1427822985.393389000
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff193a ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '3a'] ,ts= 1427822985.448443000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff193a ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '3a'] ,ts= 1427822985.448443000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[1]--[4, 0, 5, 22, 12, 12, 0, 0, 0, 1, 25, 117]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff193a ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '3a'] ,ts= 1427822985.448443000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[2]--[4, 0, 5, 26, 12, 12, 0, 0, 0, 2, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff193a ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '3a'] ,ts= 1427822985.448443000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[3]--[4, 0, 5, 40, 12, 12, 0, 0, 0, 3, 25, 36]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff193a ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '3a'] ,ts= 1427822985.448443000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[4]--[4, 0, 5, 50, 12, 12, 0, 128, 0, 0, 25, 77]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff193a ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '3a'] ,ts= 1427822985.448443000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[5]--[4, 0, 5, 59, 12, 12, 0, 128, 0, 1, 25, 75]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff193a ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '3a'] ,ts= 1427822985.448443000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[6]--[4, 0, 5, 75, 12, 12, 0, 128, 0, 2, 25, 81]
+
+[Info][phase 2] packet payload: 810a001101040005010c0c023fffff193a ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '3a'] ,ts= 1427822985.448443000
+  ruleID: 1000007 ,content: 810a001101
+  centroid:[7]--[4, 0, 5, 83, 12, 12, 0, 128, 0, 3, 25, 111]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 810a001101040005010c0c023fffff193a ,ts= 1427822985.448443000
+
+[phase 1] Abnormal.  Condition: All signatures not match.
+  packet payload: 81020004 ,ts= 1427822985.509199000
+
+[phase 1] Abnormal.  Condition: All signatures not match.
+  packet payload: 810500060010 ,ts= 1427823005.918740000
+
+# abnormal_count = 11
+# normal_count = 0
+# total_count = 11

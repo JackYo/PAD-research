@@ -1,0 +1,96 @@
+RuleIDs = [1000004, 1000005, 1000006, 1000012, 1000011, 1000000, 1000001, 1000003]
+	normal_pkt_count = 12539
+	abnormal_pkt_count = 4234
+	test_pkt_total_count = 16773
+	Match ratio = 0.2524294997913313
+
+RuleIDs = [1000004, 1000005, 1000006, 1000012, 1000011, 1000000, 1000001]
+	normal_pkt_count = 12149
+	abnormal_pkt_count = 4624
+	test_pkt_total_count = 16773
+	Match ratio = 0.2756811542359745
+
+RuleIDs = [1000004, 1000005, 1000006, 1000012, 1000011, 1000000]
+	normal_pkt_count = 9853
+	abnormal_pkt_count = 6920
+	test_pkt_total_count = 16773
+	Match ratio = 0.41256781732546355
+
+RuleIDs = [1000004, 1000005, 1000006, 1000012, 1000011]
+	normal_pkt_count = 9206
+	abnormal_pkt_count = 7567
+	test_pkt_total_count = 16773
+	Match ratio = 0.4511417158528588
+
+RuleIDs = [1000004, 1000005, 1000006, 1000012]
+	normal_pkt_count = 9206
+	abnormal_pkt_count = 7567
+	test_pkt_total_count = 16773
+	Match ratio = 0.4511417158528588
+
+RuleIDs = [1000004, 1000005, 1000006]
+	normal_pkt_count = 9206
+	abnormal_pkt_count = 7567
+	test_pkt_total_count = 16773
+	Match ratio = 0.4511417158528588
+
+RuleIDs = [1000004, 1000005]
+	normal_pkt_count = 9206
+	abnormal_pkt_count = 7567
+	test_pkt_total_count = 16773
+	Match ratio = 0.4511417158528588
+
+RuleIDs = [1000004]
+	normal_pkt_count = 9199
+	abnormal_pkt_count = 7574
+	test_pkt_total_count = 16773
+	Match ratio = 0.4515590532403267
+
+RuleIDs = [1000003, 1000001, 1000000, 1000011, 1000012, 1000006, 1000005, 1000004]
+	normal_pkt_count = 12539
+	abnormal_pkt_count = 4234
+	test_pkt_total_count = 16773
+	Match ratio = 0.2524294997913313
+
+RuleIDs = [1000003, 1000001, 1000000, 1000011, 1000012, 1000006, 1000005]
+	normal_pkt_count = 12538
+	abnormal_pkt_count = 4235
+	test_pkt_total_count = 16773
+	Match ratio = 0.2524891194181124
+
+RuleIDs = [1000003, 1000001, 1000000, 1000011, 1000012, 1000006]
+	normal_pkt_count = 12538
+	abnormal_pkt_count = 4235
+	test_pkt_total_count = 16773
+	Match ratio = 0.2524891194181124
+
+RuleIDs = [1000003, 1000001, 1000000, 1000011, 1000012]
+	normal_pkt_count = 12538
+	abnormal_pkt_count = 4235
+	test_pkt_total_count = 16773
+	Match ratio = 0.2524891194181124
+
+RuleIDs = [1000003, 1000001, 1000000, 1000011]
+	normal_pkt_count = 12537
+	abnormal_pkt_count = 4236
+	test_pkt_total_count = 16773
+	Match ratio = 0.25254873904489356
+
+RuleIDs = [1000003, 1000001, 1000000]
+	normal_pkt_count = 3342
+	abnormal_pkt_count = 13431
+	test_pkt_total_count = 16773
+	Match ratio = 0.8007512072974423
+
+RuleIDs = [1000003, 1000001]
+	normal_pkt_count = 2690
+	abnormal_pkt_count = 14083
+	test_pkt_total_count = 16773
+	Match ratio = 0.8396232039587432
+
+RuleIDs = [1000003]
+	normal_pkt_count = 391
+	abnormal_pkt_count = 16382
+	test_pkt_total_count = 16773
+	Match ratio = 0.9766887259285757
+

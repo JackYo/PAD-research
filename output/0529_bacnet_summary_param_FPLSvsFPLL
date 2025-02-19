@@ -1,0 +1,4 @@
+Experiment Datetime: 2018-05-29 21:50:42
+Normal Traffic File = ./data/normal_data/BACnet_Host_Training_filter1.pcap  # The PCAP file used to train normal model. It is assumed completely normal. 
+Test Traffic File = ./data/test_data/bacnet/bacnet_test_spec.pcap  # The PCAP file used for test. It is assumed completely abnormal. 
+*====================================*

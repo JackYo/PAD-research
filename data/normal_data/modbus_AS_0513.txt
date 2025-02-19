@@ -1,0 +1,131 @@
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  74.80(374/500)  74.80(374/500)  53.99(26180/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000001; content:"|00 00 00 06 01|";  offset:2; depth:5; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  44.60(223/500)  44.60(223/500)  33.73(16354/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000005; content:"|01 01 00 00 00|";  offset:6; depth:5; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  46.00(230/500)  46.00(230/500)  33.20(16100/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000010; content:"|00 00 00 06 01 01 00 00|";  offset:2; depth:8; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  44.60(223/500)  44.60(223/500)  32.70(15858/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000004; content:"|01 00 00 00 01|";  offset:7; depth:5; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  43.80(219/500)  43.80(219/500)  32.13(15578/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000033; content:"|01 01 00 00 00 01|";  offset:6; depth:6; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  44.00(220/500)  44.00(220/500)  31.76(15400/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000020; content:"|00 00 00 06 01 01 00 00 00|";  offset:2; depth:9; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  43.60(218/500)  43.60(218/500)  31.47(15260/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000039; content:"|00 00 00 06 01 01 00 00 00 01|";  offset:2; depth:10; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  43.20(216/500)  43.20(216/500)  31.18(15120/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000041; content:"|00 aa 00 00 00 06 01 01 00 00 00 01|";  offset:0; depth:12; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  14.00(70/500)  14.00(70/500)  10.31(4997/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000000; content:"|00 00 00 00 00|";  offset:0; depth:5; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  2.80(14/500)  2.80(14/500)  9.18(4452/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000012; content:"|00 03 00 00 00 fe 01 01|";  offset:0; depth:8; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  2.80(14/500)  2.80(14/500)  9.18(4452/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000014; content:"|00 07 00 00 00 fe 01 01|";  offset:0; depth:8; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  2.60(13/500)  2.60(13/500)  8.53(4134/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000011; content:"|00 00 00 fe 01 01 00 00|";  offset:2; depth:8; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  2.60(13/500)  2.60(13/500)  8.53(4134/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000016; content:"|00 0b 00 00 00 fe 01 01|";  offset:0; depth:8; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  2.60(13/500)  2.60(13/500)  8.53(4134/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000018; content:"|00 0f 00 00 00 fe 01 01|";  offset:0; depth:8; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  2.80(14/500)  2.80(14/500)  5.60(2716/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000006; content:"|01 01 00 00 07|";  offset:6; depth:5; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  1.60(8/500)  1.60(8/500)  5.25(2544/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000022; content:"|00 03 00 00 00 fe 01 01 00|";  offset:0; depth:9; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  1.40(7/500)  1.40(7/500)  4.59(2226/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000024; content:"|00 07 00 00 00 fe 01 01 00|";  offset:0; depth:9; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  1.40(7/500)  1.40(7/500)  4.59(2226/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000026; content:"|00 0b 00 00 00 fe 01 01 00|";  offset:0; depth:9; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  1.40(7/500)  1.40(7/500)  4.59(2226/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000035; content:"|00 00 00 fe 01 01 00 00 07|";  offset:2; depth:9; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  1.20(6/500)  1.20(6/500)  3.93(1908/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000028; content:"|00 0f 00 00 00 fe 01 01 00|";  offset:0; depth:9; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  0.80(4/500)  0.80(4/500)  2.62(1272/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000030; content:"|00 03 00 00 00 fe 01 01 00 00|";  offset:0; depth:10; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  2.80(14/500)  2.80(14/500)  2.02(980/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000009; content:"|00 00 00 00 00 06 01 01|";  offset:0; depth:8; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  2.80(14/500)  2.80(14/500)  2.02(980/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000013; content:"|00 04 00 00 00 06 01 01|";  offset:0; depth:8; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  2.80(14/500)  2.80(14/500)  2.02(980/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000015; content:"|00 08 00 00 00 06 01 01|";  offset:0; depth:8; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  2.60(13/500)  2.60(13/500)  1.88(910/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000017; content:"|00 0c 00 00 00 06 01 01|";  offset:0; depth:8; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  0.40(2/500)  0.40(2/500)  1.31(636/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000040; content:"|00 03 00 00 00 fe 01 01 00 00 07|";  offset:0; depth:11; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  1.60(8/500)  1.60(8/500)  1.15(560/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000034; content:"|00 00 00 00 00 06 01 01 00|";  offset:0; depth:9; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  1.60(8/500)  1.60(8/500)  1.15(560/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000037; content:"|00 08 00 00 00 06 01 01 00|";  offset:0; depth:9; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  1.40(7/500)  1.40(7/500)  1.01(490/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000036; content:"|00 04 00 00 00 06 01 01 00|";  offset:0; depth:9; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  1.20(6/500)  1.20(6/500)  0.87(420/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000038; content:"|00 0c 00 00 00 06 01 01 00|";  offset:0; depth:9; )    See_Detail 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  0.40(2/500)  0.40(2/500)  0.80(388/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000008; content:"|01 01 00 00 07 ce|";  offset:6; depth:6; )    See_Detail 
+
+
+Support : 2/2 files;  F-Com:  3.40(17/500)  3.40(17/500)  9.61(4662/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000002; content:"|00 03 00 00 00|";  offset:0; depth:11; )    See_Detail 
+
+
+Support : 2/2 files;  F-Com:  3.40(17/500)  3.40(17/500)  2.45(1190/48489);  
+alert  tcp 192.168.1.1 any -> 192.168.1.2 502  (sid: 1000003; content:"|00 04 00 00 00|";  offset:0; depth:11; )    See_Detail 

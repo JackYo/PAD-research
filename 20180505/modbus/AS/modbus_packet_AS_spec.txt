@@ -1,0 +1,38 @@
+Support : 2/2 files;  (Fixed Offset);   F-Com:  13.24(9/68)  99.87(49681/49748)  99.94(7770531/7775321);  
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000004; content:"|01 00 00 00 01|";  offset:7; depth:5; )
+frame contains 01:00:00:00:01
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  10.29(7/68)  99.85(49673/49748)  99.93(7769971/7775321);  
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000013; content:"|00 00 00 06 01 01 00 00 00 01|";  offset:2; depth:10; )
+frame contains 00:00:00:06:01:01:00:00:00:01
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  7.35(5/68)  99.41(49454/49748)  99.73(7754641/7775321);  
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000016; content:"|00 aa 00 00 00 06 01 01 00 00 00 01|";  offset:0; depth:12; )
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  16.18(11/68)  83.61(41594/49748)  84.84(6596315/7775321);  
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000003; content:"|00 02 00 00 00|";  offset:0; depth:5; )
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  88.24(60/68)  82.67(41127/49748)  81.66(6349105/7775321);  
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000000; content:"|00 00 00 00 00|";  offset:0; depth:5; ) 
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  30.88(21/68)  82.59(41088/49748)  81.62(6346357/7775321);  
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000001; content:"|00 00 00 05 01|";  offset:2; depth:5; )
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  5.88(4/68)  82.56(41071/49748)  81.61(6345088/7775321);  
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000011; content:"|00 00 00 00 00 06 01 01 00 00 00 00|";  offset:0; depth:12; )
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  5.88(4/68)  82.56(41071/49748)  81.61(6345088/7775321);  
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000014; content:"|00 01 00 00 00 05 01 01 00 00 00|";  offset:0; depth:11; )
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  4.41(3/68)  66.28(32973/49748)  66.49(5170099/7775321);  
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000008; content:"|00 02 00 00 00 04 01 01 00 00|";  offset:0; depth:10; )
+
+
+Support : 2/2 files;  F-Com:  13.24(9/68)  99.87(49681/49748)  99.94(7770531/7775321);  
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000002; content:"|00 01 00 00 00|";  offset:0; depth:11; ) 

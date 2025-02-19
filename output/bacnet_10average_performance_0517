@@ -1,0 +1,10 @@
+	abnormal_count_va = 265
+	normal_count_va = 9735
+	total_count_va = 220
+
+	Average abnormal rate of validation = 0.0265-----------------------
+	abnormal_count = 120
+	normal_count = 100
+	total_packet = 220
+
+	Average abnormal rate of test = 0.5454545454545454

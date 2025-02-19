@@ -1,0 +1,387 @@
+Experiment Datetime: 2018-05-21 23:52:58
+Normal Traffic File = ./data/normal_data/4SICS_modbus_filter2.pcap  # The PCAP file used to train normal model. It is assumed completely normal. 
+Test Traffic File = ./data/test_data/modbus/modbus_test_data_spec.pcap  # The PCAP file used for test. It is assumed completely abnormal. 
+*====================================*
+[ Iteration 1 ]
+Experiment parameter:
+  Training Data Duplication Time = 1  # In oder to mimic the bahavior of ICS, maybe we should give training data regularity. 
+  Frequent Pattern Least Length = 5  # The least length required for FP. 
+  Frequent Pattern Least Support = 5  # The least support required for FP. 
+  Shortened length of payload = 15  # The shortened length of payload for efficient Frequent Pattern. 
+  Cluster Boundary Threshold = 0.1  # An unknown point with distance higher that CBT would be regarded as outlier. 
+-------------------------------
+Normal Traffic File Validation Result:
+	Abnormal Count = 26 [ 26 : 0 ]
+	Normal Count = 348
+	Total Number of Packet = 374
+		Abnormal Rate = 0.06951871657754011
+-------------------------------
+Abnormal Traffic File Test Result:
+	Abnormal Count = 156 [ 6 : 150 ]
+	Normal Count = 1
+	Total Number of Packet = 157
+		Abnormal Rate = 0.9936305732484076
+-------------------------------
+Confusion Matrix: (Assume that "Abnormal" is Positive)
+	* ---------- + ---------- + ---------- *
+	|  GT \ PR   |  Abnormal  |   Normal   |
+	+ ---------- | ---------- | ---------- +
+	|  Abnormal  |  156(TP)   |   1(FN)    |
+	+ ---------- | ---------- | ---------- +
+	|   Normal   |   26(FP)   |  348(TN)   |
+	* ---------- + ---------- + ---------- *
+	True Positive Rate = 0.9936305732484076             # TP/TP+FN
+	False Positive Rate = 0.06951871657754011           # FP/FP+TN
+	True Negative Rate = 0.93048128342246               # TN/FP+TN
+	False Negative Rate = 0.006369426751592357          # FN/TP+FN
+	Precision = 0.8571428571428571                      # TP/TP+FP
+	Accuracy = 0.9491525423728814                       # TP+TN/TP+TN+FP+FN
+
+	Coverage = 0.93048128342246                         # Correctly_classified_normal_packets / Total_normal_packets
+	Accuracy = 0.9491525423728814                       # Correctly_classified_test_packets / Total_test_packets
+====================================
+[ Iteration 2 ]
+Experiment parameter:
+  Training Data Duplication Time = 1  # In oder to mimic the bahavior of ICS, maybe we should give training data regularity. 
+  Frequent Pattern Least Length = 5  # The least length required for FP. 
+  Frequent Pattern Least Support = 5  # The least support required for FP. 
+  Shortened length of payload = 15  # The shortened length of payload for efficient Frequent Pattern. 
+  Cluster Boundary Threshold = 0.15000000000000002  # An unknown point with distance higher that CBT would be regarded as outlier. 
+-------------------------------
+Normal Traffic File Validation Result:
+	Abnormal Count = 26 [ 26 : 0 ]
+	Normal Count = 348
+	Total Number of Packet = 374
+		Abnormal Rate = 0.06951871657754011
+-------------------------------
+Abnormal Traffic File Test Result:
+	Abnormal Count = 156 [ 6 : 150 ]
+	Normal Count = 1
+	Total Number of Packet = 157
+		Abnormal Rate = 0.9936305732484076
+-------------------------------
+Confusion Matrix: (Assume that "Abnormal" is Positive)
+	* ---------- + ---------- + ---------- *
+	|  GT \ PR   |  Abnormal  |   Normal   |
+	+ ---------- | ---------- | ---------- +
+	|  Abnormal  |  156(TP)   |   1(FN)    |
+	+ ---------- | ---------- | ---------- +
+	|   Normal   |   26(FP)   |  348(TN)   |
+	* ---------- + ---------- + ---------- *
+	True Positive Rate = 0.9936305732484076             # TP/TP+FN
+	False Positive Rate = 0.06951871657754011           # FP/FP+TN
+	True Negative Rate = 0.93048128342246               # TN/FP+TN
+	False Negative Rate = 0.006369426751592357          # FN/TP+FN
+	Precision = 0.8571428571428571                      # TP/TP+FP
+	Accuracy = 0.9491525423728814                       # TP+TN/TP+TN+FP+FN
+
+	Coverage = 0.93048128342246                         # Correctly_classified_normal_packets / Total_normal_packets
+	Accuracy = 0.9491525423728814                       # Correctly_classified_test_packets / Total_test_packets
+====================================
+[ Iteration 3 ]
+Experiment parameter:
+  Training Data Duplication Time = 1  # In oder to mimic the bahavior of ICS, maybe we should give training data regularity. 
+  Frequent Pattern Least Length = 5  # The least length required for FP. 
+  Frequent Pattern Least Support = 5  # The least support required for FP. 
+  Shortened length of payload = 15  # The shortened length of payload for efficient Frequent Pattern. 
+  Cluster Boundary Threshold = 0.2  # An unknown point with distance higher that CBT would be regarded as outlier. 
+-------------------------------
+Normal Traffic File Validation Result:
+	Abnormal Count = 36 [ 26 : 10 ]
+	Normal Count = 338
+	Total Number of Packet = 374
+		Abnormal Rate = 0.0962566844919786
+-------------------------------
+Abnormal Traffic File Test Result:
+	Abnormal Count = 156 [ 6 : 150 ]
+	Normal Count = 1
+	Total Number of Packet = 157
+		Abnormal Rate = 0.9936305732484076
+-------------------------------
+Confusion Matrix: (Assume that "Abnormal" is Positive)
+	* ---------- + ---------- + ---------- *
+	|  GT \ PR   |  Abnormal  |   Normal   |
+	+ ---------- | ---------- | ---------- +
+	|  Abnormal  |  156(TP)   |   1(FN)    |
+	+ ---------- | ---------- | ---------- +
+	|   Normal   |   36(FP)   |  338(TN)   |
+	* ---------- + ---------- + ---------- *
+	True Positive Rate = 0.9936305732484076             # TP/TP+FN
+	False Positive Rate = 0.0962566844919786            # FP/FP+TN
+	True Negative Rate = 0.9037433155080213             # TN/FP+TN
+	False Negative Rate = 0.006369426751592357          # FN/TP+FN
+	Precision = 0.8125                                  # TP/TP+FP
+	Accuracy = 0.9303201506591338                       # TP+TN/TP+TN+FP+FN
+
+	Coverage = 0.9037433155080213                       # Correctly_classified_normal_packets / Total_normal_packets
+	Accuracy = 0.9303201506591338                       # Correctly_classified_test_packets / Total_test_packets
+====================================
+[ Iteration 4 ]
+Experiment parameter:
+  Training Data Duplication Time = 1  # In oder to mimic the bahavior of ICS, maybe we should give training data regularity. 
+  Frequent Pattern Least Length = 5  # The least length required for FP. 
+  Frequent Pattern Least Support = 5  # The least support required for FP. 
+  Shortened length of payload = 15  # The shortened length of payload for efficient Frequent Pattern. 
+  Cluster Boundary Threshold = 0.25  # An unknown point with distance higher that CBT would be regarded as outlier. 
+-------------------------------
+Normal Traffic File Validation Result:
+	Abnormal Count = 26 [ 26 : 0 ]
+	Normal Count = 348
+	Total Number of Packet = 374
+		Abnormal Rate = 0.06951871657754011
+-------------------------------
+Abnormal Traffic File Test Result:
+	Abnormal Count = 32 [ 6 : 26 ]
+	Normal Count = 125
+	Total Number of Packet = 157
+		Abnormal Rate = 0.20382165605095542
+-------------------------------
+Confusion Matrix: (Assume that "Abnormal" is Positive)
+	* ---------- + ---------- + ---------- *
+	|  GT \ PR   |  Abnormal  |   Normal   |
+	+ ---------- | ---------- | ---------- +
+	|  Abnormal  |   32(TP)   |  125(FN)   |
+	+ ---------- | ---------- | ---------- +
+	|   Normal   |   26(FP)   |  348(TN)   |
+	* ---------- + ---------- + ---------- *
+	True Positive Rate = 0.20382165605095542            # TP/TP+FN
+	False Positive Rate = 0.06951871657754011           # FP/FP+TN
+	True Negative Rate = 0.93048128342246               # TN/FP+TN
+	False Negative Rate = 0.7961783439490446            # FN/TP+FN
+	Precision = 0.5517241379310345                      # TP/TP+FP
+	Accuracy = 0.7156308851224106                       # TP+TN/TP+TN+FP+FN
+
+	Coverage = 0.93048128342246                         # Correctly_classified_normal_packets / Total_normal_packets
+	Accuracy = 0.7156308851224106                       # Correctly_classified_test_packets / Total_test_packets
+====================================
+[ Iteration 5 ]
+Experiment parameter:
+  Training Data Duplication Time = 1  # In oder to mimic the bahavior of ICS, maybe we should give training data regularity. 
+  Frequent Pattern Least Length = 5  # The least length required for FP. 
+  Frequent Pattern Least Support = 5  # The least support required for FP. 
+  Shortened length of payload = 15  # The shortened length of payload for efficient Frequent Pattern. 
+  Cluster Boundary Threshold = 0.3  # An unknown point with distance higher that CBT would be regarded as outlier. 
+-------------------------------
+Normal Traffic File Validation Result:
+	Abnormal Count = 26 [ 26 : 0 ]
+	Normal Count = 348
+	Total Number of Packet = 374
+		Abnormal Rate = 0.06951871657754011
+-------------------------------
+Abnormal Traffic File Test Result:
+	Abnormal Count = 32 [ 6 : 26 ]
+	Normal Count = 125
+	Total Number of Packet = 157
+		Abnormal Rate = 0.20382165605095542
+-------------------------------
+Confusion Matrix: (Assume that "Abnormal" is Positive)
+	* ---------- + ---------- + ---------- *
+	|  GT \ PR   |  Abnormal  |   Normal   |
+	+ ---------- | ---------- | ---------- +
+	|  Abnormal  |   32(TP)   |  125(FN)   |
+	+ ---------- | ---------- | ---------- +
+	|   Normal   |   26(FP)   |  348(TN)   |
+	* ---------- + ---------- + ---------- *
+	True Positive Rate = 0.20382165605095542            # TP/TP+FN
+	False Positive Rate = 0.06951871657754011           # FP/FP+TN
+	True Negative Rate = 0.93048128342246               # TN/FP+TN
+	False Negative Rate = 0.7961783439490446            # FN/TP+FN
+	Precision = 0.5517241379310345                      # TP/TP+FP
+	Accuracy = 0.7156308851224106                       # TP+TN/TP+TN+FP+FN
+
+	Coverage = 0.93048128342246                         # Correctly_classified_normal_packets / Total_normal_packets
+	Accuracy = 0.7156308851224106                       # Correctly_classified_test_packets / Total_test_packets
+====================================
+[ Iteration 6 ]
+Experiment parameter:
+  Training Data Duplication Time = 1  # In oder to mimic the bahavior of ICS, maybe we should give training data regularity. 
+  Frequent Pattern Least Length = 5  # The least length required for FP. 
+  Frequent Pattern Least Support = 5  # The least support required for FP. 
+  Shortened length of payload = 15  # The shortened length of payload for efficient Frequent Pattern. 
+  Cluster Boundary Threshold = 0.35  # An unknown point with distance higher that CBT would be regarded as outlier. 
+-------------------------------
+Normal Traffic File Validation Result:
+	Abnormal Count = 26 [ 26 : 0 ]
+	Normal Count = 348
+	Total Number of Packet = 374
+		Abnormal Rate = 0.06951871657754011
+-------------------------------
+Abnormal Traffic File Test Result:
+	Abnormal Count = 31 [ 6 : 25 ]
+	Normal Count = 126
+	Total Number of Packet = 157
+		Abnormal Rate = 0.19745222929936307
+-------------------------------
+Confusion Matrix: (Assume that "Abnormal" is Positive)
+	* ---------- + ---------- + ---------- *
+	|  GT \ PR   |  Abnormal  |   Normal   |
+	+ ---------- | ---------- | ---------- +
+	|  Abnormal  |   31(TP)   |  126(FN)   |
+	+ ---------- | ---------- | ---------- +
+	|   Normal   |   26(FP)   |  348(TN)   |
+	* ---------- + ---------- + ---------- *
+	True Positive Rate = 0.19745222929936307            # TP/TP+FN
+	False Positive Rate = 0.06951871657754011           # FP/FP+TN
+	True Negative Rate = 0.93048128342246               # TN/FP+TN
+	False Negative Rate = 0.802547770700637             # FN/TP+FN
+	Precision = 0.543859649122807                       # TP/TP+FP
+	Accuracy = 0.7137476459510358                       # TP+TN/TP+TN+FP+FN
+
+	Coverage = 0.93048128342246                         # Correctly_classified_normal_packets / Total_normal_packets
+	Accuracy = 0.7137476459510358                       # Correctly_classified_test_packets / Total_test_packets
+====================================
+[ Iteration 7 ]
+Experiment parameter:
+  Training Data Duplication Time = 1  # In oder to mimic the bahavior of ICS, maybe we should give training data regularity. 
+  Frequent Pattern Least Length = 5  # The least length required for FP. 
+  Frequent Pattern Least Support = 5  # The least support required for FP. 
+  Shortened length of payload = 15  # The shortened length of payload for efficient Frequent Pattern. 
+  Cluster Boundary Threshold = 0.39999999999999997  # An unknown point with distance higher that CBT would be regarded as outlier. 
+-------------------------------
+Normal Traffic File Validation Result:
+	Abnormal Count = 26 [ 26 : 0 ]
+	Normal Count = 348
+	Total Number of Packet = 374
+		Abnormal Rate = 0.06951871657754011
+-------------------------------
+Abnormal Traffic File Test Result:
+	Abnormal Count = 31 [ 6 : 25 ]
+	Normal Count = 126
+	Total Number of Packet = 157
+		Abnormal Rate = 0.19745222929936307
+-------------------------------
+Confusion Matrix: (Assume that "Abnormal" is Positive)
+	* ---------- + ---------- + ---------- *
+	|  GT \ PR   |  Abnormal  |   Normal   |
+	+ ---------- | ---------- | ---------- +
+	|  Abnormal  |   31(TP)   |  126(FN)   |
+	+ ---------- | ---------- | ---------- +
+	|   Normal   |   26(FP)   |  348(TN)   |
+	* ---------- + ---------- + ---------- *
+	True Positive Rate = 0.19745222929936307            # TP/TP+FN
+	False Positive Rate = 0.06951871657754011           # FP/FP+TN
+	True Negative Rate = 0.93048128342246               # TN/FP+TN
+	False Negative Rate = 0.802547770700637             # FN/TP+FN
+	Precision = 0.543859649122807                       # TP/TP+FP
+	Accuracy = 0.7137476459510358                       # TP+TN/TP+TN+FP+FN
+
+	Coverage = 0.93048128342246                         # Correctly_classified_normal_packets / Total_normal_packets
+	Accuracy = 0.7137476459510358                       # Correctly_classified_test_packets / Total_test_packets
+====================================
+[ Iteration 8 ]
+Experiment parameter:
+  Training Data Duplication Time = 1  # In oder to mimic the bahavior of ICS, maybe we should give training data regularity. 
+  Frequent Pattern Least Length = 5  # The least length required for FP. 
+  Frequent Pattern Least Support = 5  # The least support required for FP. 
+  Shortened length of payload = 15  # The shortened length of payload for efficient Frequent Pattern. 
+  Cluster Boundary Threshold = 0.44999999999999996  # An unknown point with distance higher that CBT would be regarded as outlier. 
+-------------------------------
+Normal Traffic File Validation Result:
+	Abnormal Count = 26 [ 26 : 0 ]
+	Normal Count = 348
+	Total Number of Packet = 374
+		Abnormal Rate = 0.06951871657754011
+-------------------------------
+Abnormal Traffic File Test Result:
+	Abnormal Count = 31 [ 6 : 25 ]
+	Normal Count = 126
+	Total Number of Packet = 157
+		Abnormal Rate = 0.19745222929936307
+-------------------------------
+Confusion Matrix: (Assume that "Abnormal" is Positive)
+	* ---------- + ---------- + ---------- *
+	|  GT \ PR   |  Abnormal  |   Normal   |
+	+ ---------- | ---------- | ---------- +
+	|  Abnormal  |   31(TP)   |  126(FN)   |
+	+ ---------- | ---------- | ---------- +
+	|   Normal   |   26(FP)   |  348(TN)   |
+	* ---------- + ---------- + ---------- *
+	True Positive Rate = 0.19745222929936307            # TP/TP+FN
+	False Positive Rate = 0.06951871657754011           # FP/FP+TN
+	True Negative Rate = 0.93048128342246               # TN/FP+TN
+	False Negative Rate = 0.802547770700637             # FN/TP+FN
+	Precision = 0.543859649122807                       # TP/TP+FP
+	Accuracy = 0.7137476459510358                       # TP+TN/TP+TN+FP+FN
+
+	Coverage = 0.93048128342246                         # Correctly_classified_normal_packets / Total_normal_packets
+	Accuracy = 0.7137476459510358                       # Correctly_classified_test_packets / Total_test_packets
+====================================
+[ Iteration 9 ]
+Experiment parameter:
+  Training Data Duplication Time = 1  # In oder to mimic the bahavior of ICS, maybe we should give training data regularity. 
+  Frequent Pattern Least Length = 5  # The least length required for FP. 
+  Frequent Pattern Least Support = 5  # The least support required for FP. 
+  Shortened length of payload = 15  # The shortened length of payload for efficient Frequent Pattern. 
+  Cluster Boundary Threshold = 0.49999999999999994  # An unknown point with distance higher that CBT would be regarded as outlier. 
+-------------------------------
+Normal Traffic File Validation Result:
+	Abnormal Count = 26 [ 26 : 0 ]
+	Normal Count = 348
+	Total Number of Packet = 374
+		Abnormal Rate = 0.06951871657754011
+-------------------------------
+Abnormal Traffic File Test Result:
+	Abnormal Count = 31 [ 6 : 25 ]
+	Normal Count = 126
+	Total Number of Packet = 157
+		Abnormal Rate = 0.19745222929936307
+-------------------------------
+Confusion Matrix: (Assume that "Abnormal" is Positive)
+	* ---------- + ---------- + ---------- *
+	|  GT \ PR   |  Abnormal  |   Normal   |
+	+ ---------- | ---------- | ---------- +
+	|  Abnormal  |   31(TP)   |  126(FN)   |
+	+ ---------- | ---------- | ---------- +
+	|   Normal   |   26(FP)   |  348(TN)   |
+	* ---------- + ---------- + ---------- *
+	True Positive Rate = 0.19745222929936307            # TP/TP+FN
+	False Positive Rate = 0.06951871657754011           # FP/FP+TN
+	True Negative Rate = 0.93048128342246               # TN/FP+TN
+	False Negative Rate = 0.802547770700637             # FN/TP+FN
+	Precision = 0.543859649122807                       # TP/TP+FP
+	Accuracy = 0.7137476459510358                       # TP+TN/TP+TN+FP+FN
+
+	Coverage = 0.93048128342246                         # Correctly_classified_normal_packets / Total_normal_packets
+	Accuracy = 0.7137476459510358                       # Correctly_classified_test_packets / Total_test_packets
+====================================
+[ Iteration 10 ]
+Experiment parameter:
+  Training Data Duplication Time = 1  # In oder to mimic the bahavior of ICS, maybe we should give training data regularity. 
+  Frequent Pattern Least Length = 5  # The least length required for FP. 
+  Frequent Pattern Least Support = 5  # The least support required for FP. 
+  Shortened length of payload = 15  # The shortened length of payload for efficient Frequent Pattern. 
+  Cluster Boundary Threshold = 0.5499999999999999  # An unknown point with distance higher that CBT would be regarded as outlier. 
+-------------------------------
+Normal Traffic File Validation Result:
+	Abnormal Count = 26 [ 26 : 0 ]
+	Normal Count = 348
+	Total Number of Packet = 374
+		Abnormal Rate = 0.06951871657754011
+-------------------------------
+Abnormal Traffic File Test Result:
+	Abnormal Count = 31 [ 6 : 25 ]
+	Normal Count = 126
+	Total Number of Packet = 157
+		Abnormal Rate = 0.19745222929936307
+-------------------------------
+Confusion Matrix: (Assume that "Abnormal" is Positive)
+	* ---------- + ---------- + ---------- *
+	|  GT \ PR   |  Abnormal  |   Normal   |
+	+ ---------- | ---------- | ---------- +
+	|  Abnormal  |   31(TP)   |  126(FN)   |
+	+ ---------- | ---------- | ---------- +
+	|   Normal   |   26(FP)   |  348(TN)   |
+	* ---------- + ---------- + ---------- *
+	True Positive Rate = 0.19745222929936307            # TP/TP+FN
+	False Positive Rate = 0.06951871657754011           # FP/FP+TN
+	True Negative Rate = 0.93048128342246               # TN/FP+TN
+	False Negative Rate = 0.802547770700637             # FN/TP+FN
+	Precision = 0.543859649122807                       # TP/TP+FP
+	Accuracy = 0.7137476459510358                       # TP+TN/TP+TN+FP+FN
+
+	Coverage = 0.93048128342246                         # Correctly_classified_normal_packets / Total_normal_packets
+	Accuracy = 0.7137476459510358                       # Correctly_classified_test_packets / Total_test_packets
+====================================
+	Average Coverage = 0.927807486631016  
+	Average Accuracy = 0.7828625235404896  
+====================================

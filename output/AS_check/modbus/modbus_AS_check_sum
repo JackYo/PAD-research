@@ -1,0 +1,14 @@
+{'ab_ts': [], 'abnormal_count': 0, 'normal_count': 100, 'match_count': 100, 'total_count': 100}
+ruleIDs:
+1000001,1000002,
+
+==============
+Validation on ./data/normal_data/4SICS_modbus_spec_nor_cusIP100_test.pcap
+	ab_match_count = 0
+	total_count = 100
+	Match ratio = 0.0
+==============
+Validation on ./data/test_data/modbus/modbus_test_data_spec.pcap
+	ab_match_count = 0
+	total_count = 157
+	Match ratio = 0.0

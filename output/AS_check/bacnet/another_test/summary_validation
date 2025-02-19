@@ -1,0 +1,160 @@
+
+[Normal]: Distance to one centroid is under threshold. Distance= 0.0, Radius= 0.0
+  packet payload: 810500060064 , ts= .1000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 0.0, Radius= 0.0
+  packet payload: 810500060064 , ts= .2000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 0.0, Radius= 0.0
+  packet payload: 810500060064 , ts= .3000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 0.3333333333333333, Radius= 0.0
+  packet payload: 81050006ea60 , ts= .4000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 0.3333333333333333, Radius= 0.0
+  packet payload: 81050006ea60 , ts= .5000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810900120120ffff00ff10080a05391a0539 , ts= .6000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001301040005030e0c000000001e09081f , ts= .7000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001d01040005010e0c020005391e09790946093e09610960091c1f , ts= .8000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001301040005020e0c020005391e09081f , ts= .9000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001301040005030e0c000000001e09081f , ts= .10000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001301040005040e0c000000001e09081f , ts= .11000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001101040005050c0c00000000194b , ts= .12000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001101040005060c0c00000000194d , ts= .13000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001101040005070c0c00000000194f , ts= .14000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001101040005080c0c000000001955 , ts= .15000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a0011010400050a0c0c000000001924 , ts= .16000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001101040005080c0c000000001955 , ts= .17000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a0011010400050f0c0c00000001194b , ts= .18000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001101040005090c0c00000000196f , ts= .19000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a0011010400050a0c0c000000001924 , ts= .20000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001101040005110c0c00000001194f , ts= .21000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a0011010400050b0c0c000000001951 , ts= .22000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a0011010400050c0c0c000000001975 , ts= .23000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a0013010400050d0e0c000000011e09081f , ts= .24000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a0013010400050e0e0c000000011e09081f , ts= .25000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a0011010400050f0c0c00000001194b , ts= .26000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001101040005100c0c00000001194d , ts= .27000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001101040005110c0c00000001194f , ts= .28000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001101040005120c0c000000011955 , ts= .29000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001101040005130c0c00000001196f , ts= .30000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001101040005140c0c000000011924 , ts= .31000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001101040005150c0c000000011951 , ts= .32000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001101040005160c0c000000011975 , ts= .33000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a0011010400051a0c0c00000002194d , ts= .34000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001301040005170e0c000000021e09081f , ts= .35000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a0011010400051c0c0c000000021955 , ts= .36000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001301040005180e0c000000021e09081f , ts= .37000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001101040005190c0c00000002194b , ts= .38000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a0011010400051a0c0c00000002194d , ts= .39000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]
+
+[Normal]: Distance to one centroid is under threshold. Distance= 1, Radius= 0.0
+  packet payload: 810a001101040005200c0c000000021975 , ts= .40000000
+  centroid:[0]--[129, 5, 0, 6, 0, 100]

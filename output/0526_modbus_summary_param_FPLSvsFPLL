@@ -1,0 +1,4 @@
+Experiment Datetime: 2018-05-26 17:40:08
+Normal Traffic File = ./data/normal_data/4SICS_modbus_filter2.pcap  # The PCAP file used to train normal model. It is assumed completely normal. 
+Test Traffic File = ./data/test_data/modbus/modbus_test_data_spec.pcap  # The PCAP file used for test. It is assumed completely abnormal. 
+*====================================*

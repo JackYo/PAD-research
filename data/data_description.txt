@@ -1,0 +1,73 @@
+Source: http://www.netresec.com/?page=PCAP4SICS
+
+Rack #1 (from left)
+
+	192.168.88.15 DirectLogic 205 (PLC)
+	192.168.88.20 Phoenix Contact FL IL 24 BK-PAC (Ethernet bus coupler)
+		Open Ports: 80 (HTTP), 502 (Modbus/TCP), 1962
+	192.168.88.25 Advantech ADAM-5500 (Ethernet I/O module)
+		Open ports: 21 (FTP), 80 (HTTP), 81
+	192.168.88.49 AXIS 206 Network Camera
+		Open ports: 21 (FTP), 80 (HTTP), 49152 (UPnP)
+	192.168.88.75 Hirchmann EAGLE 20 Tofino (Firewall)
+		Open ports: 22 (SSH), 443 (HTTPS)
+	--unknown-ip-- Allen-Bradley Stratix 6000 (managed switch)
+
+	
+Rack #2
+
+	192.168.88.30 Siemens SIMATIC S7-1200 (PLC)
+		Open Ports: 102 (S7 protocol), 5001
+	192.168.88.91 RUGGEDCOM RS910 (Serial device server and ethernet switch)
+	192.168.88.92 RUGGEDCOM RS910
+	192.168.88.93 RUGGEDCOM RS910
+	192.168.88.95 RUGGEDCOM RS910
+		Open ports: 22 (SSH), 23 (Telnet), 80 (HTTP), 443 (HTTPS), 502 (Modbus), 514 (RSH), 20000 (DNP3)
+	192.168.89.1 RUGGEDCOM RX1100 (Router)
+
+	
+Rack #3
+
+	192.168.88.50 Red Lion DSP (protocol converter)
+		Open ports: 80 (HTTP), 502 (Modbus/TCP)
+	192.168.88.60 Moxa EDS-508A (Switch)
+		Open ports: 22 (SSH), 23 (Telnet), 80 (HTTP), 443 (HTTPS), 502 (Modbus), 4000, 4001
+	192.168.88.61 Moxa EDS-508A (Switch)
+		Open ports: 22 (SSH), 23 (Telnet), 80 (HTTP), 443 (HTTPS), 502 (Modbus), 4000, 4001, 44818
+	192.168.88.70 Cisco Catalyst 2955 (Switch)
+	192.168.88.80 Moxa UC-7112 (Embedded computer)
+	192.168.88.100 HOST Engineering MB-gateway (Modbus gateway)
+		Open ports: 80 (HTTP), 502 (Modbus)
+
+		
+Rack #4
+
+	192.168.88.51 Beckhoff CX1010 (Win CE, open port: 1234)
+		Open ports: 23 (Telnet), 80 (HTTP), 135, 443, 1234, 5120
+	192.168.88.85 xLogic x-Messenger EXM-12DC-DA-RT-WiFi (WiFi PLC)
+	192.168.88.105 TCP/IP to RS-232/422/484 Converter
+
+	
+Rack #5 (the one on the right)
+
+	192.168.88.1 and 192.168.87.1 Westermo Lynx 3643-0105 (Router)
+	--unknown-ip-- Westermo Lynx 3643-0105 (Router)
+	
+	
+Devices not found in a rack
+
+	192.168.88.115 Westermo Digi
+		Open ports: 22 (SSH), 23 (Telnet), 80 (HTTP), 443 (HTTPS), 7000 (Telnet), 7001-7025 (Telnet?!)
+
+		
+Client Network (where the "hackers" are)
+
+	IP range: 192.168.2.0/24
+
+	
+Svenska Kraftnät (Swedish Grid)
+
+	10.10.10.10 Siemens SIMATIC S7 (PLC)
+		Open Port: 102 (S7 protocol)
+	10.10.20 unknown
+	10.10.30 Windows PC

@@ -1,0 +1,2073 @@
+
+[Info][phase 2] packet payload: 0000000000060a0800040000 ,rem: ['06', '0a', '08', '00', '04', '00', '00'] ,ts= 1093521694.211940000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[0]--[5, 0, 43, 14, 1, 0]
+
+[Info][phase 2] packet payload: 0000000000060a0800040000 ,rem: ['06', '0a', '08', '00', '04', '00', '00'] ,ts= 1093521694.211940000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[1]--[5, 0, 43, 14, 2, 0]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5714285714285714
+  packet payload: 0000000000060a0800040000 ,rem: ['06', '0a', '08', '00', '04', '00', '00'] ,ts= 1093521694.211940000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[2]--[6, 1, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000060a0800040000 ,rem: ['06', '0a', '08', '00', '04', '00', '00'] ,ts= 1093521694.214335000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[0]--[5, 0, 43, 14, 1, 0]
+
+[Info][phase 2] packet payload: 0000000000060a0800040000 ,rem: ['06', '0a', '08', '00', '04', '00', '00'] ,ts= 1093521694.214335000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[1]--[5, 0, 43, 14, 2, 0]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5714285714285714
+  packet payload: 0000000000060a0800040000 ,rem: ['06', '0a', '08', '00', '04', '00', '00'] ,ts= 1093521694.214335000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[2]--[6, 1, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000060a0800040000 ,rem: ['06', '0a', '08', '00', '04', '00', '00'] ,ts= 1093521694.216894000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[0]--[5, 0, 43, 14, 1, 0]
+
+[Info][phase 2] packet payload: 0000000000060a0800040000 ,rem: ['06', '0a', '08', '00', '04', '00', '00'] ,ts= 1093521694.216894000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[1]--[5, 0, 43, 14, 2, 0]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5714285714285714
+  packet payload: 0000000000060a0800040000 ,rem: ['06', '0a', '08', '00', '04', '00', '00'] ,ts= 1093521694.216894000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[2]--[6, 1, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000060a0800010000 ,rem: ['06', '0a', '08', '00', '01', '00', '00'] ,ts= 1093521704.834827000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[0]--[5, 0, 43, 14, 1, 0]
+
+[Info][phase 2] packet payload: 0000000000060a0800010000 ,rem: ['06', '0a', '08', '00', '01', '00', '00'] ,ts= 1093521704.834827000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[1]--[5, 0, 43, 14, 2, 0]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5714285714285714
+  packet payload: 0000000000060a0800010000 ,rem: ['06', '0a', '08', '00', '01', '00', '00'] ,ts= 1093521704.834827000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[2]--[6, 1, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000060a0800010000 ,rem: ['06', '0a', '08', '00', '01', '00', '00'] ,ts= 1093521704.837161000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[0]--[5, 0, 43, 14, 1, 0]
+
+[Info][phase 2] packet payload: 0000000000060a0800010000 ,rem: ['06', '0a', '08', '00', '01', '00', '00'] ,ts= 1093521704.837161000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[1]--[5, 0, 43, 14, 2, 0]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5714285714285714
+  packet payload: 0000000000060a0800010000 ,rem: ['06', '0a', '08', '00', '01', '00', '00'] ,ts= 1093521704.837161000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[2]--[6, 1, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000060a0800010000 ,rem: ['06', '0a', '08', '00', '01', '00', '00'] ,ts= 1093521710.267053000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[0]--[5, 0, 43, 14, 1, 0]
+
+[Info][phase 2] packet payload: 0000000000060a0800010000 ,rem: ['06', '0a', '08', '00', '01', '00', '00'] ,ts= 1093521710.267053000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[1]--[5, 0, 43, 14, 2, 0]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5714285714285714
+  packet payload: 0000000000060a0800010000 ,rem: ['06', '0a', '08', '00', '01', '00', '00'] ,ts= 1093521710.267053000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[2]--[6, 1, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000060a08000a0000 ,rem: ['06', '0a', '08', '00', '0a', '00', '00'] ,ts= 1093521740.209286000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[0]--[5, 0, 43, 14, 1, 0]
+
+[Info][phase 2] packet payload: 0000000000060a08000a0000 ,rem: ['06', '0a', '08', '00', '0a', '00', '00'] ,ts= 1093521740.209286000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[1]--[5, 0, 43, 14, 2, 0]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5714285714285714
+  packet payload: 0000000000060a08000a0000 ,rem: ['06', '0a', '08', '00', '0a', '00', '00'] ,ts= 1093521740.209286000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[2]--[6, 1, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000060a08000a0000 ,rem: ['06', '0a', '08', '00', '0a', '00', '00'] ,ts= 1093521743.212140000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[0]--[5, 0, 43, 14, 1, 0]
+
+[Info][phase 2] packet payload: 0000000000060a08000a0000 ,rem: ['06', '0a', '08', '00', '0a', '00', '00'] ,ts= 1093521743.212140000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[1]--[5, 0, 43, 14, 2, 0]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5714285714285714
+  packet payload: 0000000000060a08000a0000 ,rem: ['06', '0a', '08', '00', '0a', '00', '00'] ,ts= 1093521743.212140000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[2]--[6, 1, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093521997.917389000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[0]--[5, 0, 43, 14, 1, 0]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093521997.917389000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[1]--[5, 0, 43, 14, 2, 0]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093521997.917389000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[2]--[6, 1, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093521997.917389000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[3]--[6, 1, 4, 0, 0, 0, 125]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093521997.917389000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[4]--[6, 1, 4, 0, 0, 0, 124]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093521997.917389000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[5]--[6, 1, 4, 0, 1, 0, 2]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093521997.917389000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[6]--[6, 1, 4, 0, 1, 0, 125]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093521997.917389000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[7]--[6, 1, 4, 0, 1, 0, 123]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093521997.917389000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[8]--[6, 1, 4, 255, 254, 0, 125]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093521997.917389000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[9]--[6, 1, 4, 0, 2, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093521997.917389000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[10]--[6, 1, 4, 0, 2, 0, 125]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093521997.917389000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[11]--[6, 1, 4, 0, 2, 0, 124]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093521997.917389000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[12]--[6, 1, 1, 0, 0, 0, 0]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 0000000000020a11 ,ts= 1093521997.917389000
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093522000.290808000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[0]--[5, 0, 43, 14, 1, 0]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093522000.290808000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[1]--[5, 0, 43, 14, 2, 0]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093522000.290808000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[2]--[6, 1, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093522000.290808000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[3]--[6, 1, 4, 0, 0, 0, 125]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093522000.290808000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[4]--[6, 1, 4, 0, 0, 0, 124]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093522000.290808000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[5]--[6, 1, 4, 0, 1, 0, 2]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093522000.290808000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[6]--[6, 1, 4, 0, 1, 0, 125]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093522000.290808000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[7]--[6, 1, 4, 0, 1, 0, 123]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093522000.290808000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[8]--[6, 1, 4, 255, 254, 0, 125]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093522000.290808000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[9]--[6, 1, 4, 0, 2, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093522000.290808000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[10]--[6, 1, 4, 0, 2, 0, 125]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093522000.290808000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[11]--[6, 1, 4, 0, 2, 0, 124]
+
+[Info][phase 2] packet payload: 0000000000020a11 ,rem: ['02', '0a', '11'] ,ts= 1093522000.290808000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[12]--[6, 1, 1, 0, 0, 0, 0]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 0000000000020a11 ,ts= 1093522000.290808000
+
+[phase 1] Abnormal.  Condition: All signatures not match.
+  packet payload: 0001000000060a0100000001 ,ts= 1093522338.985618000
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[0]--[0, 0, 6, 0, 1, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[1]--[0, 0, 6, 0, 2, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[2]--[0, 0, 6, 0, 3, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[3]--[0, 0, 6, 0, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[4]--[0, 0, 6, 1, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[5]--[0, 0, 6, 1, 4, 0, 1, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[6]--[0, 0, 6, 1, 4, 0, 2, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[7]--[0, 0, 6, 1, 4, 0, 3, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[8]--[0, 0, 6, 1, 4, 0, 4, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[9]--[0, 0, 6, 1, 4, 0, 5, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[10]--[0, 0, 6, 1, 4, 0, 6, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[11]--[0, 0, 6, 1, 4, 0, 7, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[12]--[0, 0, 6, 1, 4, 0, 8, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[13]--[0, 0, 6, 1, 4, 0, 9, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[14]--[0, 0, 6, 1, 4, 0, 10, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[15]--[0, 0, 6, 1, 4, 0, 11, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[16]--[0, 0, 6, 1, 4, 0, 12, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[17]--[0, 0, 6, 1, 4, 0, 13, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[18]--[0, 0, 6, 1, 4, 0, 14, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[19]--[0, 0, 6, 1, 4, 0, 15, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[20]--[0, 0, 6, 1, 4, 0, 16, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[21]--[0, 0, 6, 1, 4, 0, 17, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[22]--[0, 0, 6, 1, 4, 0, 18, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[23]--[0, 0, 6, 1, 4, 0, 19, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[24]--[0, 0, 6, 1, 4, 0, 20, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[25]--[0, 0, 6, 1, 4, 0, 21, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[26]--[0, 0, 6, 1, 4, 0, 22, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[27]--[0, 0, 6, 1, 4, 0, 23, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[28]--[0, 0, 6, 1, 4, 0, 24, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[29]--[0, 0, 6, 1, 4, 0, 25, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[30]--[0, 0, 6, 1, 4, 0, 26, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[31]--[0, 0, 6, 1, 4, 0, 27, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[32]--[0, 0, 6, 1, 4, 0, 28, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[33]--[0, 0, 6, 1, 4, 0, 29, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[34]--[0, 0, 6, 1, 4, 0, 30, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[35]--[0, 0, 6, 1, 4, 0, 31, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[36]--[0, 0, 6, 1, 4, 0, 32, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[37]--[0, 0, 6, 1, 4, 0, 33, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[38]--[0, 0, 6, 1, 4, 0, 34, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[39]--[0, 0, 6, 1, 4, 0, 35, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[40]--[0, 0, 6, 1, 4, 0, 36, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[41]--[0, 0, 6, 1, 4, 0, 37, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[42]--[0, 0, 6, 1, 4, 0, 38, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[43]--[0, 0, 6, 1, 4, 0, 39, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[44]--[0, 0, 6, 1, 4, 0, 40, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[45]--[0, 0, 6, 1, 4, 0, 41, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[46]--[0, 0, 6, 1, 4, 0, 42, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[47]--[0, 0, 6, 1, 4, 0, 43, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[48]--[0, 0, 6, 1, 4, 0, 44, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[49]--[0, 0, 6, 1, 4, 0, 45, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[50]--[0, 0, 6, 1, 4, 0, 46, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[51]--[0, 0, 6, 1, 4, 0, 47, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[52]--[0, 0, 6, 1, 4, 0, 48, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[53]--[0, 0, 6, 1, 4, 0, 49, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[54]--[0, 0, 6, 1, 4, 0, 50, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[55]--[0, 0, 6, 1, 4, 0, 51, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[56]--[0, 0, 6, 1, 4, 0, 52, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[57]--[0, 0, 6, 1, 4, 0, 53, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[58]--[0, 0, 6, 1, 4, 0, 54, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[59]--[0, 0, 6, 1, 4, 0, 55, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[60]--[0, 0, 6, 1, 4, 0, 56, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[61]--[0, 0, 6, 1, 4, 0, 57, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[62]--[0, 0, 6, 1, 4, 0, 58, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[63]--[0, 0, 6, 1, 4, 0, 59, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[64]--[0, 0, 6, 1, 4, 0, 60, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[65]--[0, 0, 6, 1, 4, 0, 61, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[66]--[0, 0, 6, 1, 4, 0, 62, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[67]--[0, 0, 6, 1, 4, 0, 63, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[68]--[0, 0, 6, 1, 4, 0, 64, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[69]--[0, 0, 6, 1, 4, 0, 65, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[70]--[0, 0, 6, 1, 4, 0, 66, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[71]--[0, 0, 6, 1, 4, 0, 67, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[72]--[0, 0, 6, 1, 4, 0, 68, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[73]--[0, 0, 6, 1, 4, 0, 69, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[74]--[0, 0, 6, 1, 4, 0, 70, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[75]--[0, 0, 6, 1, 4, 0, 71, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[76]--[0, 0, 6, 1, 4, 0, 72, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[77]--[0, 0, 6, 1, 4, 0, 73, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[78]--[0, 0, 6, 1, 4, 0, 74, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[79]--[0, 0, 6, 1, 4, 0, 75, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[80]--[0, 0, 6, 1, 4, 0, 76, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[81]--[0, 0, 6, 1, 4, 0, 77, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[82]--[0, 0, 6, 1, 4, 0, 78, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[83]--[0, 0, 6, 1, 4, 0, 79, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[84]--[0, 0, 6, 1, 4, 0, 80, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[85]--[0, 0, 6, 1, 4, 0, 81, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[86]--[0, 0, 6, 1, 4, 0, 82, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[87]--[0, 0, 6, 1, 4, 0, 83, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[88]--[0, 0, 6, 1, 4, 0, 84, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[89]--[0, 0, 6, 1, 4, 0, 85, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[90]--[0, 0, 6, 1, 4, 0, 86, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[91]--[0, 0, 6, 1, 4, 0, 87, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[92]--[0, 0, 6, 1, 4, 0, 88, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[93]--[0, 0, 6, 1, 4, 0, 89, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[94]--[0, 0, 6, 1, 4, 0, 90, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[95]--[0, 0, 6, 1, 4, 0, 91, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[96]--[0, 0, 6, 1, 4, 0, 92, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[97]--[0, 0, 6, 1, 4, 0, 93, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[98]--[0, 0, 6, 1, 4, 0, 94, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[99]--[0, 0, 6, 1, 4, 0, 95, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[100]--[0, 0, 6, 1, 4, 0, 96, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[101]--[0, 0, 6, 1, 4, 0, 97, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[102]--[0, 0, 6, 1, 4, 0, 98, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[103]--[0, 0, 6, 1, 4, 0, 99, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[104]--[0, 0, 6, 2, 1, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[105]--[0, 0, 6, 2, 2, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[106]--[0, 0, 6, 2, 3, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[107]--[0, 0, 6, 2, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[108]--[1]
+
+[Info][phase 2] packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[109]--[1, 251, 244, 180, 123, 123, 202, 177, 228, 82, 129, 80, 67, 37, 116, 139, 38, 9, 118, 195, 88, 33, 232, 150, 8, 63, 232, 247, 4, 107, 112, 9, 62, 60, 248, 129, 246, 27, 46, 200, 77, 34, 108, 126, 178, 162, 182, 104, 230, 252, 155, 207, 36, 128, 158, 163, 18, 93, 172, 59, 147, 211, 172, 121, 225, 120, 18, 7, 44, 242, 149, 10, 219, 174, 117, 53, 181, 106, 228, 102, 136, 128, 16, 8, 207, 161, 228, 190, 158, 85, 111, 152, 111, 242, 52, 122, 118, 242, 156, 58, 143, 175, 59, 244, 103, 144, 243, 118, 10, 104, 238, 168, 121, 69, 178, 19, 194, 164, 170, 64, 147, 84, 104, 215, 131, 252, 155, 232, 121, 250, 191, 194, 205, 169, 214, 216, 68, 28, 161, 62, 173, 110, 179, 54, 103, 198, 30, 41, 63, 32, 183, 209, 72, 92, 166, 59, 71, 100, 112, 106, 245, 11, 252, 16, 169, 43, 218, 207, 111, 218, 206, 166, 3, 107, 146, 37, 160, 50, 111, 188, 222, 114, 169, 89, 67, 237, 121, 113, 3, 155, 145, 224, 172, 54, 73, 162, 113, 163, 141, 59, 236, 78, 186, 101, 82, 17, 206, 220, 201, 129, 154, 21, 244, 179, 139, 131, 98, 163, 204, 187, 177, 105, 204, 212, 73, 238, 250, 204, 34, 239, 180, 253, 165, 52, 208, 143, 184, 67, 6, 50, 31, 157, 167, 130, 0, 123, 236, 248, 171]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.0
+  packet payload: 0001000000060a0100020002 ,rem: ['02'] ,ts= 1093522368.742388000
+  ruleID: 1000002 ,content: 000200
+  centroid:[110]--[2]
+
+[phase 1] Abnormal.  Condition: All signatures not match.
+  packet payload: 0001000000060a0300050002 ,ts= 1093522405.132184000
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[0]--[0, 0, 6, 0, 1, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[1]--[0, 0, 6, 0, 2, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[2]--[0, 0, 6, 0, 3, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[3]--[0, 0, 6, 0, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[4]--[0, 0, 6, 1, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[5]--[0, 0, 6, 1, 4, 0, 1, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[6]--[0, 0, 6, 1, 4, 0, 2, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[7]--[0, 0, 6, 1, 4, 0, 3, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[8]--[0, 0, 6, 1, 4, 0, 4, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[9]--[0, 0, 6, 1, 4, 0, 5, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[10]--[0, 0, 6, 1, 4, 0, 6, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[11]--[0, 0, 6, 1, 4, 0, 7, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[12]--[0, 0, 6, 1, 4, 0, 8, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[13]--[0, 0, 6, 1, 4, 0, 9, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[14]--[0, 0, 6, 1, 4, 0, 10, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[15]--[0, 0, 6, 1, 4, 0, 11, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[16]--[0, 0, 6, 1, 4, 0, 12, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[17]--[0, 0, 6, 1, 4, 0, 13, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[18]--[0, 0, 6, 1, 4, 0, 14, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[19]--[0, 0, 6, 1, 4, 0, 15, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[20]--[0, 0, 6, 1, 4, 0, 16, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[21]--[0, 0, 6, 1, 4, 0, 17, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[22]--[0, 0, 6, 1, 4, 0, 18, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[23]--[0, 0, 6, 1, 4, 0, 19, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[24]--[0, 0, 6, 1, 4, 0, 20, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[25]--[0, 0, 6, 1, 4, 0, 21, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[26]--[0, 0, 6, 1, 4, 0, 22, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[27]--[0, 0, 6, 1, 4, 0, 23, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[28]--[0, 0, 6, 1, 4, 0, 24, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[29]--[0, 0, 6, 1, 4, 0, 25, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[30]--[0, 0, 6, 1, 4, 0, 26, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[31]--[0, 0, 6, 1, 4, 0, 27, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[32]--[0, 0, 6, 1, 4, 0, 28, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[33]--[0, 0, 6, 1, 4, 0, 29, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[34]--[0, 0, 6, 1, 4, 0, 30, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[35]--[0, 0, 6, 1, 4, 0, 31, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[36]--[0, 0, 6, 1, 4, 0, 32, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[37]--[0, 0, 6, 1, 4, 0, 33, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[38]--[0, 0, 6, 1, 4, 0, 34, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[39]--[0, 0, 6, 1, 4, 0, 35, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[40]--[0, 0, 6, 1, 4, 0, 36, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[41]--[0, 0, 6, 1, 4, 0, 37, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[42]--[0, 0, 6, 1, 4, 0, 38, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[43]--[0, 0, 6, 1, 4, 0, 39, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[44]--[0, 0, 6, 1, 4, 0, 40, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[45]--[0, 0, 6, 1, 4, 0, 41, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[46]--[0, 0, 6, 1, 4, 0, 42, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[47]--[0, 0, 6, 1, 4, 0, 43, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[48]--[0, 0, 6, 1, 4, 0, 44, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[49]--[0, 0, 6, 1, 4, 0, 45, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[50]--[0, 0, 6, 1, 4, 0, 46, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[51]--[0, 0, 6, 1, 4, 0, 47, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[52]--[0, 0, 6, 1, 4, 0, 48, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[53]--[0, 0, 6, 1, 4, 0, 49, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[54]--[0, 0, 6, 1, 4, 0, 50, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[55]--[0, 0, 6, 1, 4, 0, 51, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[56]--[0, 0, 6, 1, 4, 0, 52, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[57]--[0, 0, 6, 1, 4, 0, 53, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[58]--[0, 0, 6, 1, 4, 0, 54, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[59]--[0, 0, 6, 1, 4, 0, 55, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[60]--[0, 0, 6, 1, 4, 0, 56, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[61]--[0, 0, 6, 1, 4, 0, 57, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[62]--[0, 0, 6, 1, 4, 0, 58, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[63]--[0, 0, 6, 1, 4, 0, 59, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[64]--[0, 0, 6, 1, 4, 0, 60, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[65]--[0, 0, 6, 1, 4, 0, 61, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[66]--[0, 0, 6, 1, 4, 0, 62, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[67]--[0, 0, 6, 1, 4, 0, 63, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[68]--[0, 0, 6, 1, 4, 0, 64, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[69]--[0, 0, 6, 1, 4, 0, 65, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[70]--[0, 0, 6, 1, 4, 0, 66, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[71]--[0, 0, 6, 1, 4, 0, 67, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[72]--[0, 0, 6, 1, 4, 0, 68, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[73]--[0, 0, 6, 1, 4, 0, 69, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[74]--[0, 0, 6, 1, 4, 0, 70, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[75]--[0, 0, 6, 1, 4, 0, 71, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[76]--[0, 0, 6, 1, 4, 0, 72, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[77]--[0, 0, 6, 1, 4, 0, 73, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[78]--[0, 0, 6, 1, 4, 0, 74, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[79]--[0, 0, 6, 1, 4, 0, 75, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[80]--[0, 0, 6, 1, 4, 0, 76, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[81]--[0, 0, 6, 1, 4, 0, 77, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[82]--[0, 0, 6, 1, 4, 0, 78, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[83]--[0, 0, 6, 1, 4, 0, 79, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[84]--[0, 0, 6, 1, 4, 0, 80, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[85]--[0, 0, 6, 1, 4, 0, 81, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[86]--[0, 0, 6, 1, 4, 0, 82, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[87]--[0, 0, 6, 1, 4, 0, 83, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[88]--[0, 0, 6, 1, 4, 0, 84, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[89]--[0, 0, 6, 1, 4, 0, 85, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[90]--[0, 0, 6, 1, 4, 0, 86, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[91]--[0, 0, 6, 1, 4, 0, 87, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[92]--[0, 0, 6, 1, 4, 0, 88, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[93]--[0, 0, 6, 1, 4, 0, 89, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[94]--[0, 0, 6, 1, 4, 0, 90, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[95]--[0, 0, 6, 1, 4, 0, 91, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[96]--[0, 0, 6, 1, 4, 0, 92, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[97]--[0, 0, 6, 1, 4, 0, 93, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[98]--[0, 0, 6, 1, 4, 0, 94, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[99]--[0, 0, 6, 1, 4, 0, 95, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[100]--[0, 0, 6, 1, 4, 0, 96, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[101]--[0, 0, 6, 1, 4, 0, 97, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[102]--[0, 0, 6, 1, 4, 0, 98, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[103]--[0, 0, 6, 1, 4, 0, 99, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[104]--[0, 0, 6, 2, 1, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[105]--[0, 0, 6, 2, 2, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[106]--[0, 0, 6, 2, 3, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[107]--[0, 0, 6, 2, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[108]--[1]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[109]--[1, 251, 244, 180, 123, 123, 202, 177, 228, 82, 129, 80, 67, 37, 116, 139, 38, 9, 118, 195, 88, 33, 232, 150, 8, 63, 232, 247, 4, 107, 112, 9, 62, 60, 248, 129, 246, 27, 46, 200, 77, 34, 108, 126, 178, 162, 182, 104, 230, 252, 155, 207, 36, 128, 158, 163, 18, 93, 172, 59, 147, 211, 172, 121, 225, 120, 18, 7, 44, 242, 149, 10, 219, 174, 117, 53, 181, 106, 228, 102, 136, 128, 16, 8, 207, 161, 228, 190, 158, 85, 111, 152, 111, 242, 52, 122, 118, 242, 156, 58, 143, 175, 59, 244, 103, 144, 243, 118, 10, 104, 238, 168, 121, 69, 178, 19, 194, 164, 170, 64, 147, 84, 104, 215, 131, 252, 155, 232, 121, 250, 191, 194, 205, 169, 214, 216, 68, 28, 161, 62, 173, 110, 179, 54, 103, 198, 30, 41, 63, 32, 183, 209, 72, 92, 166, 59, 71, 100, 112, 106, 245, 11, 252, 16, 169, 43, 218, 207, 111, 218, 206, 166, 3, 107, 146, 37, 160, 50, 111, 188, 222, 114, 169, 89, 67, 237, 121, 113, 3, 155, 145, 224, 172, 54, 73, 162, 113, 163, 141, 59, 236, 78, 186, 101, 82, 17, 206, 220, 201, 129, 154, 21, 244, 179, 139, 131, 98, 163, 204, 187, 177, 105, 204, 212, 73, 238, 250, 204, 34, 239, 180, 253, 165, 52, 208, 143, 184, 67, 6, 50, 31, 157, 167, 130, 0, 123, 236, 248, 171]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[110]--[2]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[111]--[2, 64, 40, 139, 64, 205, 85, 232, 32, 133, 59, 121, 233, 21, 160, 10, 188, 155, 92, 105, 228, 232, 50, 129, 184, 179, 35, 37, 148, 116, 86, 48, 154, 56, 173, 116, 206, 202, 7, 246, 84, 30, 194, 49, 64, 39, 170, 241, 245, 14, 6, 135, 29, 248, 84, 152, 13, 166, 211, 141, 170, 48, 84, 171, 47, 11, 223, 176, 104, 43, 60, 242, 147, 101, 20, 198, 37, 1, 65, 144, 8, 49, 48, 133, 110, 206, 18, 161, 228, 20, 102, 39, 246, 121, 76, 36, 202, 23, 1, 52, 71, 250, 136, 201, 210, 20, 243, 183, 228, 141, 115, 12, 100, 66, 132, 120, 255, 206, 60, 96, 248, 62, 203, 84, 197, 21, 251, 26, 25, 240, 252, 13, 255, 13, 73, 14, 169, 103, 179, 90, 219, 90, 189, 87, 160, 89, 194, 180, 244, 211, 36, 251, 219, 161, 59, 9, 46, 52, 3, 189, 24, 217, 158, 243, 144, 102, 13, 87, 249, 118, 207, 152, 27, 225, 133, 158, 129, 115, 179, 108, 82, 70, 37, 70, 203, 0, 50, 93, 209, 64, 223, 116, 100, 246, 65, 1, 188, 201, 198, 58, 75, 107, 187, 126, 4, 140, 224, 249, 27, 157, 135, 186, 129, 150, 107, 209, 179, 87, 39, 144, 51, 175, 134, 184, 150, 90, 52, 36, 160, 131, 225, 183, 173, 120, 32, 230, 139, 167, 66, 63, 32, 56, 66, 51, 184, 36, 243, 205, 139]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[112]--[125]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[113]--[125, 23, 3, 150, 157, 204, 130, 198, 239, 141, 46, 34, 59, 167, 23, 171, 236, 98, 139, 77, 224, 17, 90, 69, 184, 158, 89, 104, 153, 59, 130, 173, 254, 230, 32, 121, 233, 107, 248, 135, 98, 96, 110, 130, 159, 206, 143, 19, 154, 87, 247, 56, 135, 147, 236, 31, 188, 189, 222, 254, 114, 26, 45, 179, 10, 129, 35, 85, 135, 157, 193, 129, 106, 3, 234, 127, 163, 215, 165, 233, 15, 70, 205, 66, 67, 74, 38, 107, 250, 0, 188, 43, 140, 249, 20, 72, 51, 186, 120, 30, 170, 57, 140, 252, 149, 118, 206, 131, 168, 108, 124, 229, 24, 244, 239, 44, 76, 234, 112, 192, 90, 184, 91, 134, 224, 149, 244, 112, 238, 162, 76, 233, 95, 135, 63, 213, 185, 208, 172, 205, 124, 162, 194, 141, 132, 215, 19, 152, 10, 232, 252, 72, 74, 183, 195, 241, 222, 5, 28, 255, 130, 93, 149, 6, 31, 147, 133, 145, 181, 25, 115, 123, 62, 162, 68, 183, 246, 205, 2, 8, 130, 92, 102, 6, 166, 3, 158, 167, 195, 77, 247, 180, 180, 172, 75, 30, 13, 188, 109, 240, 82, 129, 226, 240, 116, 128, 10, 167, 115, 11, 251, 16, 2, 19, 125, 38, 246, 143, 96, 28, 244, 221, 206, 104, 33, 191, 199, 145, 87, 37, 170, 57, 95, 17, 182, 0, 121, 117, 145, 37, 249, 247, 52, 183, 81, 231, 177, 160, 47]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[114]--[125, 37, 39, 126, 92, 81, 252, 116, 179, 122, 207, 181, 184, 120, 80, 78, 97, 194, 176, 240, 93, 124, 172, 128, 253, 58, 34, 253, 169, 22, 22, 58, 13, 39, 98, 49, 253, 44, 220, 14, 21, 66, 76, 255, 166, 220, 109, 129, 166, 229, 86, 143, 54, 192, 67, 179, 120, 166, 128, 34, 46, 255, 202, 157, 99, 148, 167, 145, 21, 30, 80, 52, 229, 162, 219, 27, 47, 173, 217, 33, 205, 161, 86, 195, 192, 135, 4, 77, 227, 175, 184, 86, 171, 186, 223, 21, 119, 175, 155, 18, 52, 219, 107, 135, 149, 33, 170, 147, 228, 40, 131, 203, 205, 95, 85, 141, 169, 7, 220, 220, 143, 90, 174, 102, 102, 249, 136, 42, 195, 198, 163, 127, 17, 199, 237, 241, 53, 206, 46, 158, 221, 112, 104, 187, 43, 236, 137, 76, 101, 82, 108, 112, 210, 191, 130, 217, 45, 4, 33, 155, 153, 127, 208, 30, 132, 3, 186, 5, 114, 99, 87, 218, 216, 62, 255, 30, 241, 242, 59, 121, 111, 60, 197, 113, 90, 51, 172, 81, 68, 19, 196, 49, 173, 146, 5, 93, 160, 74, 55, 39, 50, 132, 218, 2, 250, 145, 151, 148, 192, 99, 231, 58, 201, 168, 43, 93, 185, 95, 196, 80, 87, 105, 193, 94, 158, 38, 45, 69, 56, 161, 126, 167, 187, 20, 71, 235, 97, 194, 118, 200, 156, 24, 145, 224, 43, 137, 104, 4, 103]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[115]--[125, 168, 164, 65, 134, 230, 208, 201, 194, 123, 99, 212, 100, 81, 91, 30, 229, 64, 127, 181, 97, 64, 251, 247, 232, 251, 179, 62, 215, 224, 51, 20, 190, 40, 222, 144, 253, 60, 33, 212, 67, 126, 40, 230, 95, 162, 100, 74, 188, 114, 251, 235, 10, 178, 163, 38, 172, 172, 89, 138, 50, 145, 241, 226, 72, 78, 22, 59, 114, 203, 33, 168, 31, 170, 113, 226, 23, 21, 151, 70, 150, 105, 130, 100, 228, 72, 10, 11, 133, 183, 227, 80, 227, 150, 162, 178, 140, 70, 157, 16, 140, 41, 215, 241, 81, 82, 203, 96, 65, 192, 15, 151, 20, 19, 243, 201, 15, 140, 253, 0, 68, 10, 181, 187, 231, 209, 196, 137, 8, 191, 86, 208, 119, 135, 185, 109, 145, 145, 19, 145, 124, 169, 202, 196, 167, 75, 59, 208, 162, 216, 162, 255, 72, 157, 203, 129, 115, 28, 9, 127, 142, 66, 88, 129, 106, 63, 32, 141, 89, 134, 56, 126, 121, 107, 131, 154, 64, 241, 19, 156, 150, 244, 230, 47, 28, 86, 135, 217, 188, 56, 250, 116, 136, 147, 3, 58, 81, 72, 89, 104, 43, 173, 119, 28, 159, 36, 134, 221, 26, 48, 64, 129, 9, 108, 233, 153, 91, 40, 100, 20, 183, 70, 209, 32, 140, 196, 245, 229, 103, 73, 73, 248, 151, 170, 112, 232, 124, 202, 144, 248, 207, 170, 191, 139, 248, 120, 107, 27, 170]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[116]--[124]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[117]--[124, 212, 232, 31, 248, 19, 122, 119, 49, 156, 216, 122, 71, 217, 73, 203, 230, 224, 107, 183, 44, 185, 220, 134, 164, 99, 109, 135, 75, 42, 250, 79, 240, 250, 36, 54, 202, 95, 143, 210, 206, 233, 46, 212, 197, 167, 103, 73, 98, 121, 129, 109, 149, 160, 104, 0, 247, 97, 123, 149, 166, 242, 43, 6, 162, 137, 137, 77, 180, 18, 1, 135, 80, 153, 233, 67, 139, 7, 193, 252, 251, 36, 36, 210, 168, 141, 185, 80, 145, 36, 62, 104, 228, 250, 44, 219, 189, 40, 50, 59, 30, 25, 148, 79, 119, 250, 28, 252, 183, 36, 117, 239, 160, 126, 153, 129, 205, 89, 93, 21, 208, 56, 188, 144, 211, 152, 162, 86, 108, 13, 134, 99, 213, 133, 222, 226, 143, 213, 90, 173, 112, 188, 153, 109, 175, 78, 200, 101, 96, 170, 13, 100, 202, 29, 107, 229, 93, 3, 123, 223, 88, 198, 144, 169, 158, 18, 26, 26, 160, 183, 241, 248, 254, 175, 164, 20, 159, 79, 225, 133, 208, 60, 245, 194, 0, 34, 152, 184, 25, 249, 132, 140, 90, 123, 85, 170, 44, 240, 206, 157, 52, 173, 197, 168, 184, 21, 101, 26, 120, 87, 69, 14, 34, 246, 14, 27, 208, 205, 169, 123, 121, 98, 0, 167, 50, 101, 158, 130, 90, 250, 231, 175, 128, 68, 80, 35, 119, 76, 9, 235, 188, 126, 63, 194, 179, 118, 105, 99, 109]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[118]--[123]
+
+[Info][phase 2] packet payload: 0001000000060a0500020000 ,rem: ['00'] ,ts= 1093522432.259088000
+  ruleID: 1000002 ,content: 000200
+  centroid:[119]--[123, 39, 94, 159, 73, 61, 25, 10, 80, 223, 222, 90, 133, 20, 138, 91, 131, 130, 102, 51, 85, 245, 212, 174, 43, 208, 194, 100, 58, 245, 160, 150, 196, 202, 73, 210, 189, 116, 101, 248, 197, 203, 22, 46, 96, 98, 248, 144, 211, 102, 65, 130, 151, 201, 151, 222, 83, 175, 116, 120, 122, 180, 208, 91, 62, 72, 150, 186, 202, 184, 158, 15, 29, 109, 110, 137, 222, 165, 78, 201, 215, 50, 144, 212, 180, 29, 254, 250, 51, 107, 126, 13, 255, 237, 125, 16, 251, 187, 239, 24, 203, 62, 197, 27, 199, 49, 101, 41, 91, 13, 255, 173, 97, 170, 160, 72, 35, 251, 167, 33, 73, 156, 134, 94, 57, 145, 15, 47, 239, 94, 141, 35, 182, 54, 253, 153, 108, 117, 12, 130, 183, 213, 159, 38, 108, 209, 172, 85, 76, 53, 236, 255, 20, 206, 206, 47, 183, 103, 225, 53, 33, 54, 57, 253, 127, 220, 247, 42, 172, 7, 219, 173, 239, 36, 105, 115, 252, 96, 242, 104, 229, 186, 227, 186, 113, 142, 14, 231, 103, 206, 225, 5, 148, 214, 97, 129, 156, 162, 166, 144, 217, 129, 168, 69, 89, 62, 16, 240, 100, 91, 50, 87, 116, 120, 80, 102, 82, 127, 139, 241, 205, 15, 195, 222, 38, 214, 25, 24, 194, 231, 215, 90, 186, 98, 143, 99, 17, 158, 96, 50, 125, 30, 130, 12, 155, 137, 144, 27, 134]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 0001000000060a0500020000 ,ts= 1093522432.259088000
+
+[phase 1] Abnormal.  Condition: All signatures not match.
+  packet payload: 0001000000060a0500010000 ,ts= 1093522442.072127000
+
+[phase 1] Abnormal.  Condition: All signatures not match.
+  packet payload: 0001000000060a060005000b ,ts= 1093522479.997992000
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006010000000000 ,rem: ['00', '00', '00', '00', '00'] ,ts= 1153491892.212845000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006010100000000 ,rem: ['01', '00', '00', '00', '00'] ,ts= 1153491892.984182000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006010200000000 ,rem: ['02', '00', '00', '00', '00'] ,ts= 1153491893.519653000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006010300000000 ,rem: ['03', '00', '00', '00', '00'] ,ts= 1153491894.045123000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 000000000006010400000000 ,rem: ['00'] ,ts= 1153491894.577603000
+  ruleID: 1000003 ,content: 0000000000060104000000
+  centroid:[0]--[1]
+
+[Info][phase 2] packet payload: 000000000006010400000000 ,rem: ['00'] ,ts= 1153491894.577603000
+  ruleID: 1000003 ,content: 0000000000060104000000
+  centroid:[1]--[125]
+
+[Info][phase 2] packet payload: 000000000006010400000000 ,rem: ['00'] ,ts= 1153491894.577603000
+  ruleID: 1000003 ,content: 0000000000060104000000
+  centroid:[2]--[124]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 000000000006010400000000 ,ts= 1153491894.577603000
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006010500000000 ,rem: ['05', '00', '00', '00', '00'] ,ts= 1153491895.357835000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000080106000000000000 ,rem: ['08', '01', '06', '00', '00', '00', '00', '00', '00'] ,ts= 1153491895.888998000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[0]--[5, 0, 43, 14, 1, 0]
+
+[Info][phase 2] packet payload: 0000000000080106000000000000 ,rem: ['08', '01', '06', '00', '00', '00', '00', '00', '00'] ,ts= 1153491895.888998000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[1]--[5, 0, 43, 14, 2, 0]
+
+[Info][phase 2] packet payload: 0000000000080106000000000000 ,rem: ['08', '01', '06', '00', '00', '00', '00', '00', '00'] ,ts= 1153491895.888998000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[2]--[6, 1, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000080106000000000000 ,rem: ['08', '01', '06', '00', '00', '00', '00', '00', '00'] ,ts= 1153491895.888998000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[3]--[6, 1, 4, 0, 0, 0, 125]
+
+[Info][phase 2] packet payload: 0000000000080106000000000000 ,rem: ['08', '01', '06', '00', '00', '00', '00', '00', '00'] ,ts= 1153491895.888998000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[4]--[6, 1, 4, 0, 0, 0, 124]
+
+[Info][phase 2] packet payload: 0000000000080106000000000000 ,rem: ['08', '01', '06', '00', '00', '00', '00', '00', '00'] ,ts= 1153491895.888998000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[5]--[6, 1, 4, 0, 1, 0, 2]
+
+[Info][phase 2] packet payload: 0000000000080106000000000000 ,rem: ['08', '01', '06', '00', '00', '00', '00', '00', '00'] ,ts= 1153491895.888998000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[6]--[6, 1, 4, 0, 1, 0, 125]
+
+[Info][phase 2] packet payload: 0000000000080106000000000000 ,rem: ['08', '01', '06', '00', '00', '00', '00', '00', '00'] ,ts= 1153491895.888998000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[7]--[6, 1, 4, 0, 1, 0, 123]
+
+[Info][phase 2] packet payload: 0000000000080106000000000000 ,rem: ['08', '01', '06', '00', '00', '00', '00', '00', '00'] ,ts= 1153491895.888998000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[8]--[6, 1, 4, 255, 254, 0, 125]
+
+[Info][phase 2] packet payload: 0000000000080106000000000000 ,rem: ['08', '01', '06', '00', '00', '00', '00', '00', '00'] ,ts= 1153491895.888998000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[9]--[6, 1, 4, 0, 2, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000080106000000000000 ,rem: ['08', '01', '06', '00', '00', '00', '00', '00', '00'] ,ts= 1153491895.888998000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[10]--[6, 1, 4, 0, 2, 0, 125]
+
+[Info][phase 2] packet payload: 0000000000080106000000000000 ,rem: ['08', '01', '06', '00', '00', '00', '00', '00', '00'] ,ts= 1153491895.888998000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[11]--[6, 1, 4, 0, 2, 0, 124]
+
+[Info][phase 2] packet payload: 0000000000080106000000000000 ,rem: ['08', '01', '06', '00', '00', '00', '00', '00', '00'] ,ts= 1153491895.888998000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[12]--[6, 1, 1, 0, 0, 0, 0]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 0000000000080106000000000000 ,ts= 1153491895.888998000
+
+[Info][phase 2] packet payload: 0000000000020107 ,rem: ['02', '01', '07'] ,ts= 1153491896.670247000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[0]--[5, 0, 43, 14, 1, 0]
+
+[Info][phase 2] packet payload: 0000000000020107 ,rem: ['02', '01', '07'] ,ts= 1153491896.670247000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[1]--[5, 0, 43, 14, 2, 0]
+
+[Info][phase 2] packet payload: 0000000000020107 ,rem: ['02', '01', '07'] ,ts= 1153491896.670247000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[2]--[6, 1, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000020107 ,rem: ['02', '01', '07'] ,ts= 1153491896.670247000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[3]--[6, 1, 4, 0, 0, 0, 125]
+
+[Info][phase 2] packet payload: 0000000000020107 ,rem: ['02', '01', '07'] ,ts= 1153491896.670247000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[4]--[6, 1, 4, 0, 0, 0, 124]
+
+[Info][phase 2] packet payload: 0000000000020107 ,rem: ['02', '01', '07'] ,ts= 1153491896.670247000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[5]--[6, 1, 4, 0, 1, 0, 2]
+
+[Info][phase 2] packet payload: 0000000000020107 ,rem: ['02', '01', '07'] ,ts= 1153491896.670247000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[6]--[6, 1, 4, 0, 1, 0, 125]
+
+[Info][phase 2] packet payload: 0000000000020107 ,rem: ['02', '01', '07'] ,ts= 1153491896.670247000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[7]--[6, 1, 4, 0, 1, 0, 123]
+
+[Info][phase 2] packet payload: 0000000000020107 ,rem: ['02', '01', '07'] ,ts= 1153491896.670247000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[8]--[6, 1, 4, 255, 254, 0, 125]
+
+[Info][phase 2] packet payload: 0000000000020107 ,rem: ['02', '01', '07'] ,ts= 1153491896.670247000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[9]--[6, 1, 4, 0, 2, 0, 1]
+
+[Info][phase 2] packet payload: 0000000000020107 ,rem: ['02', '01', '07'] ,ts= 1153491896.670247000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[10]--[6, 1, 4, 0, 2, 0, 125]
+
+[Info][phase 2] packet payload: 0000000000020107 ,rem: ['02', '01', '07'] ,ts= 1153491896.670247000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[11]--[6, 1, 4, 0, 2, 0, 124]
+
+[Info][phase 2] packet payload: 0000000000020107 ,rem: ['02', '01', '07'] ,ts= 1153491896.670247000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[12]--[6, 1, 1, 0, 0, 0, 0]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 0000000000020107 ,ts= 1153491896.670247000
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006010800000000 ,rem: ['08', '00', '00', '00', '00'] ,ts= 1153491897.200518000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006010900000000 ,rem: ['09', '00', '00', '00', '00'] ,ts= 1153491897.732438000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006010a00000000 ,rem: ['0a', '00', '00', '00', '00'] ,ts= 1153491898.264237000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006010b00000000 ,rem: ['0b', '00', '00', '00', '00'] ,ts= 1153491898.794047000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006010c00000000 ,rem: ['0c', '00', '00', '00', '00'] ,ts= 1153491899.326457000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006010d00000000 ,rem: ['0d', '00', '00', '00', '00'] ,ts= 1153491899.857902000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006010e00000000 ,rem: ['0e', '00', '00', '00', '00'] ,ts= 1153491900.638972000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 000000000007010f0000000000 ,rem: ['07', '01', '0f', '00', '00', '00', '00', '00'] ,ts= 1153491901.173171000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[0]--[5, 0, 43, 14, 1, 0]
+
+[Info][phase 2] packet payload: 000000000007010f0000000000 ,rem: ['07', '01', '0f', '00', '00', '00', '00', '00'] ,ts= 1153491901.173171000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[1]--[5, 0, 43, 14, 2, 0]
+
+[Info][phase 2] packet payload: 000000000007010f0000000000 ,rem: ['07', '01', '0f', '00', '00', '00', '00', '00'] ,ts= 1153491901.173171000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[2]--[6, 1, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 000000000007010f0000000000 ,rem: ['07', '01', '0f', '00', '00', '00', '00', '00'] ,ts= 1153491901.173171000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[3]--[6, 1, 4, 0, 0, 0, 125]
+
+[Info][phase 2] packet payload: 000000000007010f0000000000 ,rem: ['07', '01', '0f', '00', '00', '00', '00', '00'] ,ts= 1153491901.173171000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[4]--[6, 1, 4, 0, 0, 0, 124]
+
+[Info][phase 2] packet payload: 000000000007010f0000000000 ,rem: ['07', '01', '0f', '00', '00', '00', '00', '00'] ,ts= 1153491901.173171000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[5]--[6, 1, 4, 0, 1, 0, 2]
+
+[Info][phase 2] packet payload: 000000000007010f0000000000 ,rem: ['07', '01', '0f', '00', '00', '00', '00', '00'] ,ts= 1153491901.173171000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[6]--[6, 1, 4, 0, 1, 0, 125]
+
+[Info][phase 2] packet payload: 000000000007010f0000000000 ,rem: ['07', '01', '0f', '00', '00', '00', '00', '00'] ,ts= 1153491901.173171000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[7]--[6, 1, 4, 0, 1, 0, 123]
+
+[Info][phase 2] packet payload: 000000000007010f0000000000 ,rem: ['07', '01', '0f', '00', '00', '00', '00', '00'] ,ts= 1153491901.173171000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[8]--[6, 1, 4, 255, 254, 0, 125]
+
+[Info][phase 2] packet payload: 000000000007010f0000000000 ,rem: ['07', '01', '0f', '00', '00', '00', '00', '00'] ,ts= 1153491901.173171000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[9]--[6, 1, 4, 0, 2, 0, 1]
+
+[Info][phase 2] packet payload: 000000000007010f0000000000 ,rem: ['07', '01', '0f', '00', '00', '00', '00', '00'] ,ts= 1153491901.173171000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[10]--[6, 1, 4, 0, 2, 0, 125]
+
+[Info][phase 2] packet payload: 000000000007010f0000000000 ,rem: ['07', '01', '0f', '00', '00', '00', '00', '00'] ,ts= 1153491901.173171000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[11]--[6, 1, 4, 0, 2, 0, 124]
+
+[Info][phase 2] packet payload: 000000000007010f0000000000 ,rem: ['07', '01', '0f', '00', '00', '00', '00', '00'] ,ts= 1153491901.173171000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[12]--[6, 1, 1, 0, 0, 0, 0]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 000000000007010f0000000000 ,ts= 1153491901.173171000
+
+[Info][phase 2] packet payload: 00000000000701100000000000 ,rem: ['07', '01', '10', '00', '00', '00', '00', '00'] ,ts= 1153491901.700544000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[0]--[5, 0, 43, 14, 1, 0]
+
+[Info][phase 2] packet payload: 00000000000701100000000000 ,rem: ['07', '01', '10', '00', '00', '00', '00', '00'] ,ts= 1153491901.700544000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[1]--[5, 0, 43, 14, 2, 0]
+
+[Info][phase 2] packet payload: 00000000000701100000000000 ,rem: ['07', '01', '10', '00', '00', '00', '00', '00'] ,ts= 1153491901.700544000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[2]--[6, 1, 4, 0, 0, 0, 1]
+
+[Info][phase 2] packet payload: 00000000000701100000000000 ,rem: ['07', '01', '10', '00', '00', '00', '00', '00'] ,ts= 1153491901.700544000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[3]--[6, 1, 4, 0, 0, 0, 125]
+
+[Info][phase 2] packet payload: 00000000000701100000000000 ,rem: ['07', '01', '10', '00', '00', '00', '00', '00'] ,ts= 1153491901.700544000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[4]--[6, 1, 4, 0, 0, 0, 124]
+
+[Info][phase 2] packet payload: 00000000000701100000000000 ,rem: ['07', '01', '10', '00', '00', '00', '00', '00'] ,ts= 1153491901.700544000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[5]--[6, 1, 4, 0, 1, 0, 2]
+
+[Info][phase 2] packet payload: 00000000000701100000000000 ,rem: ['07', '01', '10', '00', '00', '00', '00', '00'] ,ts= 1153491901.700544000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[6]--[6, 1, 4, 0, 1, 0, 125]
+
+[Info][phase 2] packet payload: 00000000000701100000000000 ,rem: ['07', '01', '10', '00', '00', '00', '00', '00'] ,ts= 1153491901.700544000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[7]--[6, 1, 4, 0, 1, 0, 123]
+
+[Info][phase 2] packet payload: 00000000000701100000000000 ,rem: ['07', '01', '10', '00', '00', '00', '00', '00'] ,ts= 1153491901.700544000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[8]--[6, 1, 4, 255, 254, 0, 125]
+
+[Info][phase 2] packet payload: 00000000000701100000000000 ,rem: ['07', '01', '10', '00', '00', '00', '00', '00'] ,ts= 1153491901.700544000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[9]--[6, 1, 4, 0, 2, 0, 1]
+
+[Info][phase 2] packet payload: 00000000000701100000000000 ,rem: ['07', '01', '10', '00', '00', '00', '00', '00'] ,ts= 1153491901.700544000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[10]--[6, 1, 4, 0, 2, 0, 125]
+
+[Info][phase 2] packet payload: 00000000000701100000000000 ,rem: ['07', '01', '10', '00', '00', '00', '00', '00'] ,ts= 1153491901.700544000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[11]--[6, 1, 4, 0, 2, 0, 124]
+
+[Info][phase 2] packet payload: 00000000000701100000000000 ,rem: ['07', '01', '10', '00', '00', '00', '00', '00'] ,ts= 1153491901.700544000
+  ruleID: 1000016 ,content: 0000000000
+  centroid:[12]--[6, 1, 1, 0, 0, 0, 0]
+
+[phase 2] Abnormal. Condition: All signatures right part not match.
+  packet payload: 00000000000701100000000000 ,ts= 1153491901.700544000
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006011100000000 ,rem: ['11', '00', '00', '00', '00'] ,ts= 1153491902.482474000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006011200000000 ,rem: ['12', '00', '00', '00', '00'] ,ts= 1153491903.264410000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006011300000000 ,rem: ['13', '00', '00', '00', '00'] ,ts= 1153491903.795763000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006011400000000 ,rem: ['14', '00', '00', '00', '00'] ,ts= 1153491904.335459000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006011500000000 ,rem: ['15', '00', '00', '00', '00'] ,ts= 1153491905.106429000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006011600000000 ,rem: ['16', '00', '00', '00', '00'] ,ts= 1153491905.638732000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006011700000000 ,rem: ['17', '00', '00', '00', '00'] ,ts= 1153491906.170715000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006011800000000 ,rem: ['18', '00', '00', '00', '00'] ,ts= 1153491906.700713000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006011900000000 ,rem: ['19', '00', '00', '00', '00'] ,ts= 1153491907.251987000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006011a00000000 ,rem: ['1a', '00', '00', '00', '00'] ,ts= 1153491907.779520000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006011b00000000 ,rem: ['1b', '00', '00', '00', '00'] ,ts= 1153491908.312844000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006011c00000000 ,rem: ['1c', '00', '00', '00', '00'] ,ts= 1153491908.841076000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006011d00000000 ,rem: ['1d', '00', '00', '00', '00'] ,ts= 1153491909.623427000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006011e00000000 ,rem: ['1e', '00', '00', '00', '00'] ,ts= 1153491910.154893000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006011f00000000 ,rem: ['1f', '00', '00', '00', '00'] ,ts= 1153491910.936370000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006012000000000 ,rem: ['20', '00', '00', '00', '00'] ,ts= 1153491911.467298000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006012100000000 ,rem: ['21', '00', '00', '00', '00'] ,ts= 1153491911.997264000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006012200000000 ,rem: ['22', '00', '00', '00', '00'] ,ts= 1153491912.529443000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006012300000000 ,rem: ['23', '00', '00', '00', '00'] ,ts= 1153491913.060710000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006012400000000 ,rem: ['24', '00', '00', '00', '00'] ,ts= 1153491913.591900000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006012500000000 ,rem: ['25', '00', '00', '00', '00'] ,ts= 1153491914.123323000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006012600000000 ,rem: ['26', '00', '00', '00', '00'] ,ts= 1153491914.654715000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006012700000000 ,rem: ['27', '00', '00', '00', '00'] ,ts= 1153491915.185520000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006012800000000 ,rem: ['28', '00', '00', '00', '00'] ,ts= 1153491915.717502000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006012900000000 ,rem: ['29', '00', '00', '00', '00'] ,ts= 1153491916.247647000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006012a00000000 ,rem: ['2a', '00', '00', '00', '00'] ,ts= 1153491917.028222000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006012b00000000 ,rem: ['2b', '00', '00', '00', '00'] ,ts= 1153491917.561063000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006012c00000000 ,rem: ['2c', '00', '00', '00', '00'] ,ts= 1153491918.341875000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006012d00000000 ,rem: ['2d', '00', '00', '00', '00'] ,ts= 1153491919.123076000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006012e00000000 ,rem: ['2e', '00', '00', '00', '00'] ,ts= 1153491919.653354000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006012f00000000 ,rem: ['2f', '00', '00', '00', '00'] ,ts= 1153491920.185848000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006013000000000 ,rem: ['30', '00', '00', '00', '00'] ,ts= 1153491920.716708000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006013100000000 ,rem: ['31', '00', '00', '00', '00'] ,ts= 1153491921.247669000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006013200000000 ,rem: ['32', '00', '00', '00', '00'] ,ts= 1153491922.028628000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006013300000000 ,rem: ['33', '00', '00', '00', '00'] ,ts= 1153491922.560815000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006013400000000 ,rem: ['34', '00', '00', '00', '00'] ,ts= 1153491923.091742000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006013500000000 ,rem: ['35', '00', '00', '00', '00'] ,ts= 1153491923.623460000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006013600000000 ,rem: ['36', '00', '00', '00', '00'] ,ts= 1153491924.155056000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006013700000000 ,rem: ['37', '00', '00', '00', '00'] ,ts= 1153491924.934600000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006013800000000 ,rem: ['38', '00', '00', '00', '00'] ,ts= 1153491925.467348000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006013900000000 ,rem: ['39', '00', '00', '00', '00'] ,ts= 1153491925.998259000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006013a00000000 ,rem: ['3a', '00', '00', '00', '00'] ,ts= 1153491926.528818000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006013b00000000 ,rem: ['3b', '00', '00', '00', '00'] ,ts= 1153491927.060548000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006013c00000000 ,rem: ['3c', '00', '00', '00', '00'] ,ts= 1153491927.590911000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006013d00000000 ,rem: ['3d', '00', '00', '00', '00'] ,ts= 1153491928.121865000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006013e00000000 ,rem: ['3e', '00', '00', '00', '00'] ,ts= 1153491928.654478000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006013f00000000 ,rem: ['3f', '00', '00', '00', '00'] ,ts= 1153491929.186068000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006014000000000 ,rem: ['40', '00', '00', '00', '00'] ,ts= 1153491929.715910000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006014100000000 ,rem: ['41', '00', '00', '00', '00'] ,ts= 1153491930.498619000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006014200000000 ,rem: ['42', '00', '00', '00', '00'] ,ts= 1153491931.030109000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006014300000000 ,rem: ['43', '00', '00', '00', '00'] ,ts= 1153491931.560524000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006014400000000 ,rem: ['44', '00', '00', '00', '00'] ,ts= 1153491932.091770000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006014500000000 ,rem: ['45', '00', '00', '00', '00'] ,ts= 1153491932.622757000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006014600000000 ,rem: ['46', '00', '00', '00', '00'] ,ts= 1153491933.406960000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006014700000000 ,rem: ['47', '00', '00', '00', '00'] ,ts= 1153491933.937591000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006014800000000 ,rem: ['48', '00', '00', '00', '00'] ,ts= 1153491934.716748000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006014900000000 ,rem: ['49', '00', '00', '00', '00'] ,ts= 1153491935.247820000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006014a00000000 ,rem: ['4a', '00', '00', '00', '00'] ,ts= 1153491935.778655000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006014b00000000 ,rem: ['4b', '00', '00', '00', '00'] ,ts= 1153491936.316627000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006014c00000000 ,rem: ['4c', '00', '00', '00', '00'] ,ts= 1153491936.841481000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006014d00000000 ,rem: ['4d', '00', '00', '00', '00'] ,ts= 1153491937.373900000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006014e00000000 ,rem: ['4e', '00', '00', '00', '00'] ,ts= 1153491937.903078000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006014f00000000 ,rem: ['4f', '00', '00', '00', '00'] ,ts= 1153491938.435423000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006015000000000 ,rem: ['50', '00', '00', '00', '00'] ,ts= 1153491939.215614000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006015100000000 ,rem: ['51', '00', '00', '00', '00'] ,ts= 1153491939.748032000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006015200000000 ,rem: ['52', '00', '00', '00', '00'] ,ts= 1153491940.280428000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006015300000000 ,rem: ['53', '00', '00', '00', '00'] ,ts= 1153491940.810125000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006015400000000 ,rem: ['54', '00', '00', '00', '00'] ,ts= 1153491941.341976000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006015500000000 ,rem: ['55', '00', '00', '00', '00'] ,ts= 1153491941.875446000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006015600000000 ,rem: ['56', '00', '00', '00', '00'] ,ts= 1153491942.405602000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006015700000000 ,rem: ['57', '00', '00', '00', '00'] ,ts= 1153491943.186144000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006015800000000 ,rem: ['58', '00', '00', '00', '00'] ,ts= 1153491943.717172000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006015900000000 ,rem: ['59', '00', '00', '00', '00'] ,ts= 1153491944.248247000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006015a00000000 ,rem: ['5a', '00', '00', '00', '00'] ,ts= 1153491944.779341000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006015b00000000 ,rem: ['5b', '00', '00', '00', '00'] ,ts= 1153491945.310425000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006015c00000000 ,rem: ['5c', '00', '00', '00', '00'] ,ts= 1153491945.841206000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006015d00000000 ,rem: ['5d', '00', '00', '00', '00'] ,ts= 1153491946.372811000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006015e00000000 ,rem: ['5e', '00', '00', '00', '00'] ,ts= 1153491946.903163000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006015f00000000 ,rem: ['5f', '00', '00', '00', '00'] ,ts= 1153491947.438778000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006016000000000 ,rem: ['60', '00', '00', '00', '00'] ,ts= 1153491947.967051000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006016100000000 ,rem: ['61', '00', '00', '00', '00'] ,ts= 1153491948.748474000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006016200000000 ,rem: ['62', '00', '00', '00', '00'] ,ts= 1153491949.279424000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006016300000000 ,rem: ['63', '00', '00', '00', '00'] ,ts= 1153491949.810436000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006016400000000 ,rem: ['64', '00', '00', '00', '00'] ,ts= 1153491950.341221000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006016500000000 ,rem: ['65', '00', '00', '00', '00'] ,ts= 1153491950.875913000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006016600000000 ,rem: ['66', '00', '00', '00', '00'] ,ts= 1153491951.406902000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006016700000000 ,rem: ['67', '00', '00', '00', '00'] ,ts= 1153491951.935928000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006016800000000 ,rem: ['68', '00', '00', '00', '00'] ,ts= 1153491952.466631000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006016900000000 ,rem: ['69', '00', '00', '00', '00'] ,ts= 1153491952.998681000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006016a00000000 ,rem: ['6a', '00', '00', '00', '00'] ,ts= 1153491953.529703000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006016b00000000 ,rem: ['6b', '00', '00', '00', '00'] ,ts= 1153491954.061161000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006016c00000000 ,rem: ['6c', '00', '00', '00', '00'] ,ts= 1153491954.841908000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006016d00000000 ,rem: ['6d', '00', '00', '00', '00'] ,ts= 1153491955.372854000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006016e00000000 ,rem: ['6e', '00', '00', '00', '00'] ,ts= 1153491956.154536000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006016f00000000 ,rem: ['6f', '00', '00', '00', '00'] ,ts= 1153491956.685825000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006017000000000 ,rem: ['70', '00', '00', '00', '00'] ,ts= 1153491957.466867000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006017100000000 ,rem: ['71', '00', '00', '00', '00'] ,ts= 1153491958.247706000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006017200000000 ,rem: ['72', '00', '00', '00', '00'] ,ts= 1153491958.779633000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006017300000000 ,rem: ['73', '00', '00', '00', '00'] ,ts= 1153491959.560630000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006017400000000 ,rem: ['74', '00', '00', '00', '00'] ,ts= 1153491960.092685000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006017500000000 ,rem: ['75', '00', '00', '00', '00'] ,ts= 1153491960.622678000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006017600000000 ,rem: ['76', '00', '00', '00', '00'] ,ts= 1153491961.154944000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006017700000000 ,rem: ['77', '00', '00', '00', '00'] ,ts= 1153491961.686230000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006017800000000 ,rem: ['78', '00', '00', '00', '00'] ,ts= 1153491962.217101000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006017900000000 ,rem: ['79', '00', '00', '00', '00'] ,ts= 1153491962.748616000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006017a00000000 ,rem: ['7a', '00', '00', '00', '00'] ,ts= 1153491963.287104000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006017b00000000 ,rem: ['7b', '00', '00', '00', '00'] ,ts= 1153491963.810808000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006017c00000000 ,rem: ['7c', '00', '00', '00', '00'] ,ts= 1153491964.341227000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006017d00000000 ,rem: ['7d', '00', '00', '00', '00'] ,ts= 1153491964.874328000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006017e00000000 ,rem: ['7e', '00', '00', '00', '00'] ,ts= 1153491965.406871000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006017f00000000 ,rem: ['7f', '00', '00', '00', '00'] ,ts= 1153491965.935639000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4
+  packet payload: 000000000006010100000008 ,rem: ['01', '00', '00', '00', '08'] ,ts= 1153491966.972800000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.2
+  packet payload: 000000000006010100000001 ,rem: ['01', '00', '00', '00', '01'] ,ts= 1153491967.500048000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.6
+  packet payload: 0000000000060101ffff0001 ,rem: ['01', 'ff', 'ff', '00', '01'] ,ts= 1153491968.029848000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.6
+  packet payload: 00000000000601017fff0001 ,rem: ['01', '7f', 'ff', '00', '01'] ,ts= 1153491968.560349000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.6
+  packet payload: 00000000000601013fff0001 ,rem: ['01', '3f', 'ff', '00', '01'] ,ts= 1153491969.341790000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.6
+  packet payload: 00000000000601011fff0001 ,rem: ['01', '1f', 'ff', '00', '01'] ,ts= 1153491969.875501000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.6
+  packet payload: 00000000000601010fff0001 ,rem: ['01', '0f', 'ff', '00', '01'] ,ts= 1153491970.406438000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.6
+  packet payload: 000000000006010107ff0001 ,rem: ['01', '07', 'ff', '00', '01'] ,ts= 1153491971.185636000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.6
+  packet payload: 000000000006010103ff0001 ,rem: ['01', '03', 'ff', '00', '01'] ,ts= 1153491971.967093000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.6
+  packet payload: 000000000006010105ff0001 ,rem: ['01', '05', 'ff', '00', '01'] ,ts= 1153491972.498222000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.6
+  packet payload: 000000000006010106ff0001 ,rem: ['01', '06', 'ff', '00', '01'] ,ts= 1153491973.029056000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.6
+  packet payload: 0000000000060101067f0001 ,rem: ['01', '06', '7f', '00', '01'] ,ts= 1153491973.561178000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.6
+  packet payload: 0000000000060101063f0001 ,rem: ['01', '06', '3f', '00', '01'] ,ts= 1153491974.091153000
+  ruleID: 1000012 ,content: 000000000601
+  centroid:[0]--[4, 0, 0, 0, 1]
+
+# abnormal_count = 12
+# normal_count = 145
+# total_count = 157

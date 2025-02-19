@@ -1,0 +1,57 @@
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.4166666666666667
+  packet payload: 810a001101040005010c0c023fffff194b ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4b'] ,ts= 1427822985.007800000
+  ruleID: 1000006 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5
+  packet payload: 810a001101040005010c0c023fffff1978 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '78'] ,ts= 1427822985.063200000
+  ruleID: 1000006 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5
+  packet payload: 810a001101040005010c0c023fffff1979 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '79'] ,ts= 1427822985.115871000
+  ruleID: 1000006 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5
+  packet payload: 810a001101040005010c0c023fffff192c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '2c'] ,ts= 1427822985.171466000
+  ruleID: 1000006 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5
+  packet payload: 810a001101040005010c0c023fffff190c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '0c'] ,ts= 1427822985.226907000
+  ruleID: 1000006 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5
+  packet payload: 810a001101040005010c0c023fffff194d ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '4d'] ,ts= 1427822985.282621000
+  ruleID: 1000006 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5
+  packet payload: 810a001101040005010c0c023fffff1946 ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '46'] ,ts= 1427822985.337853000
+  ruleID: 1000006 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5
+  packet payload: 810a001101040005010c0c023fffff191c ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '1c'] ,ts= 1427822985.393389000
+  ruleID: 1000006 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5
+  packet payload: 810a001101040005010c0c023fffff193a ,rem: ['04', '00', '05', '01', '0c', '0c', '02', '3f', 'ff', 'ff', '19', '3a'] ,ts= 1427822985.448443000
+  ruleID: 1000006 ,content: 810a001101
+  centroid:[0]--[4, 0, 5, 5, 12, 12, 0, 0, 0, 0, 25, 75]
+
+[phase 1] Abnormal.  Condition: All signatures not match.
+  packet payload: 81020004 ,ts= 1427822985.509199000
+
+[All Pass] Normal. Condition: Signature right part match. Distance= 0.5
+  packet payload: 810500060010 ,rem: ['00', '10'] ,ts= 1427823005.918740000
+  ruleID: 1000002 ,content: 81050006
+  centroid:[0]--[0, 100]
+
+# abnormal_count = 1
+# normal_count = 10
+# total_count = 11

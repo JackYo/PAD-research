@@ -1,0 +1,7 @@
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000001; content:"|81 05 00 06 00 64|";  offset:0; depth:6; )
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000002; content:"|81 05 00 06|";  offset:0; depth:4; )
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000003; content:"|81 0a 00 13 01|";  offset:0; depth:5; )
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000004; content:"|81 0a 00 13 01 04|";  offset:0; depth:6; )
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000005; content:"|81 0a 00 13 01 04 00 05|";  offset:0; depth:8; )
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000006; content:"|81 0a 00 11 01|";  offset:0; depth:5; )
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000007; content:"|81 05 00|";  offset:0; depth:3; )

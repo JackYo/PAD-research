@@ -1,0 +1,5 @@
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000004; content:"|81 09 00 12 01 20 ff ff 00 ff 10 08 0a 05 39 1a 05 39|";  offset:0; depth:18; )
+alert  tcp any any -> 192.168.88.0/24 502  (sid: 1000004; content:"|81 0a 00 1d 01 04 00 05 01 0e 0c 02 00 05 39 1e 09 79 09 46 09 3e 09 61 09 60 09 1c 1f|";  offset:0; depth:29; )
+
+#abnormal_count = 2
+# total_packet = 160

@@ -1,0 +1,62 @@
+
+最初的 4SICS-Modbus 有 99491 個 packets
+
+===============================================
+
+第一個 filter:
+
+ip.dst == 192.168.88.0/24
+
+產出檔案為: 4SICS-Modbus-Spec: 49748 個 packets
+
+===============================================
+
+第二個 filter:
+
+_ws.malformed
+
+4SICS-Modbus-Spec-normal: 44970 個 packets
+
+===============================================
+
+我們將 4SICS-Modbus-Spec-normal 假定為正常網路流量
+
+接下來要將其拆分為兩個檔案
+
+./tcpdump -r C:\Users\Chiao\python_work\Master_paper_program\data\nor
+mal_data\4SICS-Modbus-Spec-normal.pcap -w C:\Users\Chiao\python_work\Master_paper_program\data\normal_data\4SICS_modbus
+-C 5.587125
+
+理論上要產生 7:3 比例的檔案，但是沒辦法這麼精確
+
+
+7成(4.76 MB (5,000,130 位元組))的部分拿來產生 frequent pattern (NAS): 4SICS_modbus_input.pcap
+3成(2.84 MB (2,981,502 位元組))的部分與測試資料混合，進行實驗的測試: 4SICS_modbus_test.pcap
+
+================================================
+
+產生 frequent pattern (NAS) 的方式為：
+
+--------------------------------
+將 4SICS_modbus_input.pcap 依時間拆分成4等份 (7089:7089:7089:7087) : 
+
+在 C:\Program Files\Wireshark 路徑內開啟 cmd 或 PowerShell
+執行下列指令
+
+./editcap.exe -c 7089 C:\Users\Chiao\python_work\Master_paper_program\data\normal_data\4
+SICS-Modbus-Spec-normal.pcap C:\Users\Chiao\python_work\Master_paper_program\data\normal_data\4SICS_modbus
+
+產出為
+4SICS_modbus_input-1.pcap
+4SICS_modbus_input-2.pcap
+4SICS_modbus_input-3.pcap
+4SICS_modbus_input-4.pcap
+------------------------------------
+將這4個檔案上傳至 http://snorgen.korea.ac.kr/2.1.0/pages/run.php
+
+點擊 RUN 即可產生結果，儲存至 modbus_AS.txt
+
+只留存 4/4 file support 的 packet signature: modbus_AS_fullfilesupport.txt
+
+
+

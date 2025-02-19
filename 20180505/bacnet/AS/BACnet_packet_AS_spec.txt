@@ -1,0 +1,54 @@
+Support : 2/2 files;  (Fixed Offset);   F-Com:  40.48(17/42)  72.02(6719/9329)  72.18(435216/602971);  
+alert  udp 10.200.1.0/24 any -> 10.200.1.15 47808  (sid: 1000001; content:"|0c 02 00 05 39|";  offset:10; depth:5; )     
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  28.57(12/42)  68.69(6408/9329)  68.47(412828/602971);  
+alert  udp 10.200.1.0/24 any -> 10.200.1.15 47808  (sid: 1000002; content:"|81 0a 00 13 01 04|";  offset:0; depth:6; )     
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  26.19(11/42)  68.22(6364/9329)  68.00(410009/602971);  
+alert  udp 10.200.1.0/24 any -> 10.200.1.15 47808  (sid: 1000003; content:"|81 0a 00 13 01 04 00|";  offset:0; depth:7; )     
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  16.67(7/42)  62.16(5799/9329)  61.93(373427/602971);  
+alert  udp 10.200.1.0/24 any -> 10.200.1.15 47808  (sid: 1000004; content:"|01 20 ff ff 00 ff 10 08|";  offset:4; depth:8; )     
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  23.81(10/42)  57.35(5350/9329)  57.14(344515/602971);  
+alert  udp 10.200.1.0/24 any -> 10.200.1.15 47808  (sid: 1000009; content:"|81 0a 00 13 01 04 00 03|";  offset:0; depth:8; )     
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  23.81(10/42)  57.35(5350/9329)  57.14(344515/602971);  
+alert  udp 10.200.1.0/24 any -> 10.200.1.15 47808  (sid: 1000014; content:"|0c 0c 02 00 05 39 19 4C|)";  offset:9; depth:9; )     
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  23.81(10/42)  57.35(5350/9329)  57.14(344515/602971);  
+alert  udp 10.200.1.0/24 any -> 10.200.1.15 47808  (sid: 1000049; content:"|0c 0c 02 00 05 39 19 4C|)";  offset:9; depth:9; )     
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  33.33(14/42)  54.72(5105/9329)  54.88(330913/602971);  
+alert  udp 10.200.1.0/24 any -> 10.200.1.15 47808  (sid: 1000050; content:"|0c 0c 02 00 05 39 19 4D 00|";  offset:9; depth:9; )     
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  23.81(10/42)  52.01(4852/9329)  51.79(312304/602971);  
+alert  udp 10.200.1.0/24 any -> 10.200.1.15 47808  (sid: 1000007; content:"|81 0a 00 11 01 04 00 03|";  offset:0; depth:8; )     
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  14.29(6/42)  51.29(4785/9329)  51.07(307933/602971);  
+alert  udp 10.200.1.0/24 any -> 10.200.1.15 47808  (sid: 1000062; content:"|81 09 00 0c 01 20 ff ff 00 ff 10 08 00 00 00 00 00 00|";  offset:0; depth:18; )     
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  19.05(8/42)  50.92(4750/9329)  50.70(305706/602971);  
+alert  udp 10.200.1.0/24 any -> 10.200.1.15 47808  (sid: 1000079; content:"|81 0a 00 11 01 04 00 03 02 0c 0c 02 00 05 39 19 4D 00|";  offset:0; depth:18; )     
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  19.05(8/42)  50.92(4750/9329)  50.70(305706/602971);  
+alert  udp 10.200.1.0/24 any -> 10.200.1.15 47808  (sid: 1000081; content:"|81 0a 00 13 01 04 00 03 01 0c 0c 02 00 05 39 19 4C 29 00|";  offset:0; depth:19; )     
+
+
+Support : 2/2 files;  (Fixed Offset);   F-Com:  28.57(12/42)  50.03(4667/9329)  49.79(300227/602971);  
+alert  udp any any -> 10.200.1.15 47808  (sid: 1000060; content:"|81 05 00 06 00 00 00 00 00 00 00 00 00 00 00 00 00|";  offset:0; depth:18; )     
+
+
+Support : 2/2 files;  F-Com:  35.71(15/42)  64.43(6011/9329)  64.19(387018/602971);  
+alert  udp any any -> 10.200.1.15 47808  (sid: 1000010; content:"|00 00 00 00 00 00 00 00 00|";  offset:6; depth:12; )     
